@@ -17,6 +17,7 @@ def getline(line, user):
 if __name__ == "__main__":
     user = None
     src = open('frequencies.txt', 'r').readlines()
+    print("User, Frequency, Description")
     for line in src:
         line = line.strip()
         if line == "":
