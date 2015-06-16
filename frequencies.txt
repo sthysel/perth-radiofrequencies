@@ -1,0 +1,907 @@
+Courier Australia
+473.1500 Philips Tvw7 Studio Site DIANELLA
+473.4000 Philips Groupsite 20 Hines Road OCONNER
+474.0250 473.7500 Swan Taxis Building 1008 Wellington Street WEST PERTH
+474.0250 Murray Shire Site Pinjarra East
+470.5250 QV1 250 St Georges Terrace PERTH
+470.9500 QV1 250 St Georges Terrace PERTH
+471.0250 15 Avery St NEERABUP
+470.7000 15 Avery St NEERABUP
+470.7750 Blue Bay Apartments 5 Valley Road HALLS HEAD
+472.2250 Blue Bay Apartments 5 Valley Road HALLS HEAD
+
+Community Repeater Sites
+470.6250 Sratacom Site Northwest Tower Laurence Road WALLISTON
+490.0500
+
+Bankwest
+487.2750 St Martins Tower 44 St Georges Terrace PERTH
+
+GardenCity Shopping Centre
+463.3500 Admin Building Booragoon Shopping Complex Marmion Street BOORAGOON
+
+City of Melville
+462.9750 Commercial Mast Wireless Hill Park ARDROSS
+463.6500 Commercial Mast Wireless Hill Park ARDROSS
+464.0000 Commercial Mast Wireless Hill Park ARDROSS
+
+Perth Zoo
+469.6500 Zoo Grounds
+465.1000 Zoo Admin Buldg 20 Labouchere Rd SOUTH PERTH
+
+Beaurepairs
+487.7500 Philips Groupsite Windsor Towers 9 Parker Street SOUTH PERTH
+
+Freeway Motel
+450.3750 Freeway Motel 55 Mill Point Rd SOUTH PERTH
+
+C.A.L.M.
+78.2500 Doss Site Canning Mills Road Canning Mills.
+78.1750 (Hill T) Charles Searson Lookout NOWERGUP
+78.2750 MT Solus Jarrahdale WA
+
+Burswood Resort Casino
+494.9500 Burswood Resort VICTORIA PARK
+467.8250
+
+Burswood Resort Hotel
+495.1750
+
+Park Shopping Centre 
+450.0500 Park Shopping Centre Albany Hwy East VICTORIA PARK
+
+Alinta Gas
+164.3750 SECWA Site R44 Douglas Road MARTIN
+164.5750
+172.4400
+172.4100
+451.7000 FORRESTDALE
+451.7250
+172.2900 WA Wide
+173.7600
+
+Swan Brewery
+490.2250
+490.5250
+
+Ministry of Justice
+486.8500 WA Wide
+73.3700 Law Courts Cnr Irwin & Hay Streets PERTH
+Canning Vale Prison Nicholson Road CANNING VALE
+
+Juvenile Justice Division
+466.3000 Murdoch Drive MURDOCH
+
+St John of God Hospital Murdoch
+450.3250 
+470.0500
+
+West Australian Newspapers
+464.6250 54 Hasler Drive OSBORNE PARK
+466.6750 54 Hasler Drive OSBORNE PARK
+
+WA Fire Brigade
+78.0500 Cnr Congdon St & Stirling CLAREMONT
+78.0625 Moorgup Hill GINGIN 
+78.0750 Doss Site Canning Mills Road Canning Mills
+WA Wide
+78.0875 St John of God Hospital Blair Street BUNBURY
+78.1000 Doss Site Canning Mills Road Canning Mills
+78.1250 Lot230 Toodyay Rd REDHILL
+78.1375 SECWA Site WOOROLOO
+519.6250 WA Wide
+519.9000 WA Wide
+119.1000 WA Wide Aeronautical
+
+Western Power
+78.0875
+
+Port Printing
+168.3375 7 Keegan Street OCONNOR
+
+City of Fremantle
+494.6000 Philips Groupsite 20 Hines Road OCONNER
+493.4000 Car Park Henderson St FREMANTLE
+
+Fremantle Port Authority
+469.9000 Port Authority Building 1 Cliff Street FREMANTLE
+471.3000 Port Authority Building 1 Cliff Street FREMANTLE
+474.5000 Port Authority Building 1 Cliff Street FREMANTLE
+461.0188 Port Authority Building 1 Cliff Street FREMANTLE
+469.7000 Wharf FREMANTLE
+169.0625 North Quay NORTH FREMANTLE
+168.3875 WA wide
+
+Fremantle Terminals Ltd
+467.3500 Tydeman Road NORTH FREMANTLE
+469.8250 Tydeman Road NORTH FREMANTLE
+467.6750 Tydeman Road NORTH FREMANTLE
+469.6000 Tydeman Road NORTH FREMANTLE
+467.0750 No 11 Berth FREMANTLE
+469.6250 Conaust Harbour Workshop NORTH FREMANTLE
+
+P & O Ports
+469.9500 Wharf FREMANTLE
+469.9750 Wharf FREMANTLE
+469.5000 Wharf FREMANTLE
+464.6000 39 Wood St FREMANTLE
+450.2750 Fremantle Harbour Berth 4 5 11 and 12 North FREMANTLE
+450.3500 Fremantle Harbour Berth 4 5 11 and 12 North FREMANTLE
+450.4000 46 Tydeman Road North Fremantle
+469.8750 Berth 4 and Berth 5 Port Beach Road NORTH FREMANTLE
+450.1250 Fremantle Harbour Berths 4 5 and 6 NORTH FREMANTLE
+
+Covich JF and Co
+75.4875 125 Rockingham Rd HAMILTON HILL
+
+Watsons Foods WA
+450.1750 Watsons Food Factory Area Hamilton Road SPEARWOOD
+471.3750 174 Hamilton Rd Master Stn SPEARWOOD
+
+City of Cockburn
+79.5750 Wellard St BIBRA LAKE
+464.6750 Wellard St BIBRA LAKE
+
+Cockburn Electrical Company
+168.3375 30 Port Kembla Drive SPEARWOOD
+
+Westrail
+168.7900 Comms Tower Railyard West 
+169.0900 Railway Station KEWDALE
+168.4300 Wagr Operations Centre Mast Rail Yards KEWDALE
+168.6400 Wagr Operations Centre Mast Rail Yards KEWDALE 
+411.3250 Freight Terminal KEWDALE 
+410.6750 Wagr Foreman Checkers Office Intermodal Terminal KEWDALE
+410.9250 Wagr Foreman Checkers Office Intermodal Terminal KEWDALE 
+419.0750 Wagr on Video Tower SE Part of Freight Terminal KEWDALE
+419.3750 Wagr Operations Centre Mast Rail Yards KEWDALE
+169.2700 Railway Station Robbs Jetty HAMILTON HILL
+169.1500 Railyard KWINANA
+169.1800 Wagr Yard Masters Tower Operations Centre FORRESTFIELD
+169.2700 Wagr Yard Masters Tower Operations Centre FORRESTFIELD
+418.5750 Wagr Yard Masters Tower Operations Centre FORRESTFIELD
+168.6700 Wagr Radio Centre FORRESTFIELD
+463.7500 Wagr Hump Control Tower Marshalling Yards FORRESTFIELD
+463.5500 Wagr Hump Control Tower Marshalling Yards FORRESTFIELD
+463.5000 Wagr Hump Control Tower Marshalling Yards FORRESTFIELD
+463.4750 Wagr Hump Control Tower Marshalling Yards FORRESTFIELD
+168.4300 Wagr Hump Control Tower Marshalling Yards FORRESTFIELD 
+168.7000 Wagr Hump Control Tower Marshalling Yards FORRESTFIELD 
+169.2400 Westrail Site MARTIN
+450.6250 Westrail Site MARTIN 
+418.7000 Westrail Site MARTIN 
+419.5500 Westrail Site MARTIN 
+168.5200 Westrail Site MARTIN 
+166.4250 Westrail Site MARTIN 
+166.6500 Westrail Site MARTIN 
+419.5000 Railway Station SUBIACO
+419.5000 Railway Station Sevenoaks St CANNINGTON
+168.7900 Cbh Loader Cbh Grain Terminal Rockingham Rd KWINANA
+168.5800 Wagr Hump Control Tower Marshalling Yards FORRESTFIELD
+168.6400 Yard Station KWINANA
+168.5200 West Australian Government Railways Ch22 Site MILLENDON
+168.5500 Alcoa Bauxite Loader KWINANA
+168.6400 Wagr Operations Centre Mast Rail Yards KEWDALE 
+419.3750 Wagr Operations Centre Mast Rail Yards KEWDALE
+463.4250 Rail Terminal MIDLAND
+418.2000 Rail Terminal MIDLAND 
+419.9500 Rail Terminal MIDLAND 
+168.6000 Signal Cabin KWINANA
+172.9800 Westrail Interstate Terminal EAST PERTH 
+418.1750 Westrail Interstate Terminal EAST PERTH 
+418.7250 Westrail Interstate Terminal EAST PERTH 
+166.5250 Westrail Interstate Terminal EAST PERTH 
+419.7500 Westrail Interstate Terminal EAST PERTH 
+410.6250 WA wide
+418.1000 Railway Station Leighton NORTH FREMANTLE
+166.6000 Railway Station Leighton NORTH FREMANTLE 
+419.9500 Railway Station Leighton NORTH FREMANTLE 
+169.2100 Mason Rd KWINANA
+412.0250 Mason Rd KWINANA 
+418.1500 City Station Wellington Street PERTH
+418.7500 City Station Wellington Street PERTH 
+418.3250 City Station Wellington Street PERTH 
+418.1250 Showgrounds Railway Station CLAREMONT
+419.4750 Showgrounds Railway Station CLAREMONT 
+418.2500 Railway Station Commerce Ave ARMADALE
+418.2500 Water Tower Cnr Ewen St and Princess Rd DOUBLEVIEW
+418.6000 Water Tower Cnr Ewen St and Princess Rd DOUBLEVIEW 
+418.3000 Joondalup Water Tower Water Tower Park Moondara Way JOONDALUP
+418.7750 Joondalup Water Tower Water Tower Park Moondara Way JOONDALUP 
+166.5500 Joondalup Water Tower Water Tower Park Moondara Way JOONDALUP 
+418.2750 Railway Station GLENDALOUGH
+418.2750 Railway Station WHITFORDS
+418.4250 Bridge Warwick Rd and Mitchell Fwy WARWICK
+418.3250 Roe St Tunnel NORTHBRIDGE
+418.7750 Roe St Tunnel NORTHBRIDGE 
+168.6400 Yard Station KWINANA
+418.5000 Yard Station KWINANA 
+418.8500 Yard Station KWINANA 
+418.9250 Yard Station KWINANA 
+169.1800 Wagr Yard Masters Tower Operations Centre FORRESTFIELD
+169.2700 Wagr Yard Masters Tower Operations Centre FORRESTFIELD 
+418.4000 Wagr Yard Masters Tower Operations Centre FORRESTFIELD 
+418.4750 Wagr Yard Masters Tower Operations Centre FORRESTFIELD 
+418.5750 Wagr Yard Masters Tower Operations Centre FORRESTFIELD 
+418.8750 Wagr Yard Masters Tower Operations Centre FORRESTFIELD 
+418.6250 Railway Station WARWICK
+419.2500 Marshalling Yards FORRESTFIELD
+419.7500 Railway Station JOONDALUP
+418.2000 Rail Terminal MIDLAND
+463.4250 Rail Terminal MIDLAND 
+419.9500 Rail Terminal MIDLAND 
+419.8500 Overpass Tonkin Hwy BAYSWATER
+169.0000 WA Wide
+166.6000 West Australian Government Railways Ch22 Site MILLENDON
+166.6750 West Australian Government Railways Site MILLENDON
+168.5200 West Australian Government Railways Site MILLENDON
+460.8750 West Australian Government Railways Site MILLENDON
+460.4750 West Australian Government Railways Site MILLENDON
+405.0000 West Australian Government Railways Site MILLENDON
+411.6250 WA Wide
+471.5500 Tasker Road KWINANA
+160.0300 Coal Unloading Siding KWINANA
+168.6400 Cbh Loader Cbh Grain Terminal Rockingham Rd KWINANA
+166.4500 Westrail Site South Western Highway (Just North of Pinjarra) PINJARRA
+172.8600 Moondyne Hill BULLSBROOK
+412.2500 Alcoa Bauxite Loader KWINANA
+411.9000 Alcoa Alumina Unloading KWINANA
+411.6250 Cbh Loader Cbh Grain Terminal Rockingham Rd KWINANA
+412.0000 Blue Metal unloading area Westrail Freight Terminal KEWDALE
+412.2500 Westrail Site JARRAHDALE
+412.4500 WAGR Site Alcoa Alumina Refinery PINJARRA
+
+National Rail Corporation Ltd
+418.5500 Wagr Foreman Checkers Office Intermodal Terminal KEWDALE
+418.3500 Wagr Foreman Checkers Office Intermodal Terminal KEWDALE
+418.6500 Wagr Foreman Checkers Office Intermodal Terminal KEWDALE
+418.9500 Wagr Foreman Checkers Office Intermodal Terminal KEWDALE
+
+96FM
+462.1250 STW9 Mast Lawnbrook Road WALLISTON
+173.2500 STW9 Mast Lawnbrook Road WALLISTON
+
+Channel 9 TV
+487.6500 Bank West Tower 108 St Georges Terrace PERTH
+487.3500 Bank West Tower 108 St Georges Terrace PERTH 
+486.4500 Bank West Tower 108 St Georges Terrace PERTH 
+486.3750 WA wide
+485.4250 WA wide 
+487.5000 WA wide 
+485.0500 WA wide 
+168.9375 Channel 9 TV Studios Hayes Avenue DIANELLA
+
+Channel 7 TV
+419.0750 WA wide
+471.9250 WA wide 
+484.8750 WA wide 
+494.8000 WA wide 
+494.9000 WA wide 
+494.8500 WA wide 
+463.8750 WA wide 
+474.8750 WA wide 
+463.2000 WA wide 
+177.5000 Tvw7 Mast Television Road BICKLEY
+161.2625 Philips Tvw7 Studio Site DIANELLA
+163.4000 Philips Tvw7 Studio Site DIANELLA 
+463.2000 Philips Tvw7 Studio Site DIANELLA
+
+94.5 fm
+494.5000 FM Site Tvw7 Lease Television Road BICKLEY pmfm
+492.4250 FM Site Tvw7 Lease Television Road BICKLEY
+928.4625 FM Site Tvw7 Lease Television Road BICKLEY channel 10
+460.1500 FM Site Tvw7 Lease Television Road BICKLEY
+473.9500 Channel 10 TV Transmitter Site Welshpool Road CARMEL
+473.0500 New10 Cottonwood Cres DIANELLA
+473.3500 New10 Cottonwood Cres DIANELLA 
+473.6500 New10 Cottonwood Cres DIANELLA 
+473.3500 WA wide
+473.9500 WA wide 
+474.8500 216 St Georges Terrace and Portable PERTH
+
+Australian Protective Service
+485.5250 Bank West Tower 108 St Georges Terrace PERTH
+486.1500 300 Horriemiller Dr Intntl Airport PERTH
+
+SES
+459.1000 WASES Compound Raymond Road WALLISTON
+466.9250 WASES Compound Raymond Road WALLISTON 
+123.1000 91 Leake Street BELMONT - Aeronautical mobile
+131.6000 91 Leake Street BELMONT - Aeronautical mobile
+467.2250 (Hill T) Charles Searson Lookout NOWERGUP
+467.4750 Westrail Site MARTIN
+467.4750 Padbury Road GREENMOUNT
+468.6250 Padbury Road GREENMOUNT
+467.4750 Lot230 Toodyay Rd REDHILL
+467.7250 SECWA Site R107 off Scrivener Road SERPENTINE
+
+Boat Torque
+464.7500 16 Ford Road LESMURDIE
+475.0500 Barrack St Jetty PERTH
+
+Coates Hire 
+419.1500 Lot 134 Godfrey Street WALLISTON
+418.8250 Lot 134 Godfrey Street WALLISTON
+
+Cockburn hire
+493.2500 13 Godfrey Street WALLISTON
+
+Pace Couriers
+508.9000 QV1 250 St Georges Terrace PERTH
+
+Daynite towing
+163.0500 QV1 250 St Georges Terrace PERTH
+
+Coca Cola
+466.2250 QV1 250 St Georges Terrace PERTH
+474.5250 Walliston Transfer Station Lawnbrook Road BICKLEY
+
+Buswest
+487.5750 QV1 250 St Georges Terrace PERTH
+
+Dept of Transport
+462.5000 Capita Building 197 St Georges Terrace PERTH - a lot of data goes over on this! I think it may be MDT.
+154.6250 Water Auth Reservoir Boundary Road MOSMAN PARK
+154.3750
+
+Fisheries Department of WA
+164.7125 Turner Hill PINJARRA
+164.7500 Doss Site Canning Mills Road Canning Mills.
+164.7250 Observation City West Coast Highway SCARBOROUGH
+
+Myer Stores security
+469.7250 Newman St FREMANTLE
+469.7000 Newman St FREMANTLE
+
+St John Ambulance
+463.2750 Channel 10 TV Transmitter Site Welshpool Road CARMEL
+412.4750 Channel 10 TV Transmitter Site Welshpool Road CARMEL
+412.6500 Channel 10 TV Transmitter Site Welshpool Road CARMEL
+412.7500 Channel 10 TV Transmitter Site Welshpool Road CARMEL
+463.2750 Admiral Road Byford WA
+413.0750 Admiral Road Byford WA
+413.3000 Admiral Road Byford WA
+412.7500 Admiral Road Byford WA
+78.6625 Admiral Road Byford WA
+414.1500 Admiral Road Byford WA
+451.2500 Admiral Road Byford WA
+463.2750 Telstra Exchange Simpson Avenue ROCKINGHAM
+413.0250 Telstra Exchange Simpson Avenue ROCKINGHAM
+412.7500 Telstra Exchange Simpson Avenue ROCKINGHAM
+463.2750 Dumas House 2 Havelock Street WEST PERTH
+463.2750 Royal Perth Hospital Wellington Street PERTH
+413.1250 Royal Perth Hospital Wellington Street PERTH
+412.7500 Royal Perth Hospital Wellington Street PERTH
+463.2750 Telstra CMTS WAWA Copperhead Ave PADBURY
+412.5750 Telstra CMTS WAWA Copperhead Ave PADBURY
+412.7500 Telstra CMTS WAWA Copperhead Ave PADBURY
+463.2750 Dumas House 2 Havelock Street WEST PERTH
+413.1500 Dumas House 2 Havelock Street WEST PERTH
+413.3500 Fremantle Hospital Lot 1970 Alma Street FREMANTLE
+412.7500 Fremantle Hospital Lot 1970 Alma Street FREMANTLE
+463.2750 Fremantle Hospital Lot 1970 Alma Street FREMANTLE
+413.2250 Fremantle Hospital Lot 1970 Alma Street FREMANTLE
+463.2750 Lot230 Toodyay Rd REDHILL
+413.1000 Lot230 Toodyay Rd REDHILL
+412.7500 Lot230 Toodyay Rd REDHILL
+413.3750 Lot230 Toodyay Rd REDHILL
+78.7000 Lot230 Toodyay Rd REDHILL
+414.4750 Lot230 Toodyay Rd REDHILL
+463.2750 Exchange QUINNS ROCK
+413.0250 Exchange QUINNS ROCK
+412.7500 Exchange QUINNS ROCK
+413.1750 Exchange QUINNS ROCK
+463.2750 Smiths Mill Hill GIDGEGANNUP
+412.7500 Smiths Mill Hill GIDGEGANNUP
+413.4250 Smiths Mill Hill GIDGEGANNUP
+412.7500 CMTS Site off Scarp Road PINJARRA
+463.2750 CMTS Site off Scarp Road PINJARRA
+413.4250 CMTS Site off Scarp Road PINJARRA
+413.1750 CMTS Site off Scarp Road PINJARRA
+469.5250 WA wide
+469.5750 WA wide
+458.0250 WA wide
+458.0750 WA wide
+415.4500 WA wide
+
+ABC TV
+463.8500 ABC Studios Adelaide Terrace PERTH
+474.2750 ABC Studios Adelaide Terrace PERTH
+168.6125 ABC Studios Adelaide Terrace PERTH
+172.9375 ABC Studios Adelaide Terrace PERTH
+153.7625 ABC Studios Adelaide Terrace PERTH
+169.1250 ABC Studios Adelaide Terrace PERTH
+463.8500 ABC Studios Adelaide Terrace PERTH
+
+POLICE
+
+467.8500 CH. 1 
+467.8750 CH. 2 VICTORIA PARK Doss Site Canning Mills Road Canning Mills
+467.9000 CH. 3 Bank West Tower 108 St Georges Terrace PERTH
+467.9250 CH. 4 
+467.9500 CH. 5 
+467.9750 CH. 6 
+468.0000 CH. 7 - ROTTNEST Lighthouse ROTTNEST ISLAND
+468.0250 CH. 8 - ARMADALE Police Site Ashurst Drive LESMURDIE
+468.0500 CH. 9 - KINGS PARK Telstra Microwave Site MT Yokine Osborne Road Dianella
+468.0750 CH. 10 -
+468.1000 CH. 11 MT Solus Jarrahdale 
+468.1250 CH. 12 - MUNSTER Wawa Site off Henderson Road East Reservoir RFDS Hut MUNSTER
+468.1500 CH. 13 - CITY BEACH Wawa Water Tank off Kalinda Dr CITY BEACH
+468.1750 CH. 14
+468.2000 CH. 15 Bank West Tower 108 St Georges Terrace PERTH
+468.2250 CH. 16 - ROCKINGHAM Cbh Grain Terminal Rockingham Road ROCKINGHAM
+468.2500 CH. 17 Police Site off Scarp Road Near North Spur Road Pinjarra East
+468.2750 CH. 18 Wellington St Water Tower MOSMAN PARK
+468.3000 CH. 19
+468.3250 CH. 20 
+468.3500 CH. 21 Telstra Microwave Site MT Yokine Osborne Road Dianella.
+468.3750 CH. 22 
+468.4000 CH. 23 - FREMANTLE BEATS Swanbourne Street FREMANTLE
+468.4250 CH. 24
+468.4500 CH. 25
+468.4750 CH. 26 - EMERGANCIES / misc Dumas House 2 Havelock Street WEST PERTH
+468.5000 CH. 27 Bank West Tower 108 St Georges Terrace PERTH
+468.5250 CH. 28
+468.5500 CH. 29
+468.5750 CH. 30 CALM Communications Groupsite Hayman Road KENSINGTON
+468.6000 CH. 31
+468.6250 CH. 32 Padbury Road GREENMOUNT - SES uses this as well
+468.6500 CH. 33
+468.6750 CH. 34 365 Wellington Street PERTH
+468.7000 CH. 35 - FREMANTLE ENQUIRIES Swanbourne Street FREMANTLE
+468.7250 CH. 36 Paxwold Gilchrist Road LESMURDIE 
+468.7500 CH. 37 Wawa Site MT Gungin HACKETTS GULLY
+468.7750 CH. 38
+468.8000 CH. 39 Bank West Tower 108 St Georges Terrace PERTH
+468.8250 CH. 40 (Hill T) Charles Searson Lookout NOWERGUP
+468.8500 CH. 41 Water Tank 84 Prisk Street KARRINYUP
+468.8750 CH. 42
+468.9000 CH. 43
+468.9250 CH. 44
+468.9500 CH. 45 MT Eliza PERTH
+468.9750 CH. 46 STW9 Mast Lawnbrook Road WALLISTON 
+469.0000 CH. 47 - FREMANTLE Swanbourne Street FREMANTLE
+469.0250 CH. 48 Koondoola Avenue KOONDOOLA
+469.0500 CH. 49 Telstra Microwave Site Great Eastern Highway SAWYERS VALLEY
+469.0750 CH. 50 Shoran Court Reserve OCEAN REEF
+469.1000 CH. 51 Bank West Tower 108 St Georges Terrace PERTH
+469.1250 CH. 52 (Hill T) Charles Searson Lookout NOWERGUP
+469.1500 CH. 53 Smiths Mill Hill GIDGEGANNUP
+469.1750 CH. 54 Padbury Road GREENMOUNT
+469.2000 CH. 55
+469.2250 CH. 56 Police Site Ashurst Drive LESMURDIE
+469.2500 CH. 57 Wawa Tanks TWO ROCKS
+469.2750 CH. 58 Water Tower Mcdonald St JOONDANNA
+469.3000 CH. 59 Swanbourne Street FREMANTLE
+469.3250 CH. 60
+469.3500 CH. 61
+469.3750 CH. 62 Water Tower Hale Street WATERMAN
+469.4000 CH. 63 Bank West Tower 108 St Georges Terrace PERTH
+469.4250 CH. 64 Cbh Grain Terminal Rockingham Road ROCKINGHAM
+
+SECURITY WORK
+
+463.8000 City of Melville Security (Thanks Darren)
+
+HF CB 27 MHz
+
+26.9650 CH 1 - Aust wide
+26.9750 CH 2 - Aust wide
+26.9850 CH 3 - Aust wide
+27.0050 CH 4 - Aust wide
+27.0150 CH 5 - Aust wide
+27.0250 CH 6 - Aust wide
+27.0350 CH 7 - Aust wide
+27.0550 CH 8 - Truckies channel - Aust wide
+27.0650 CH 9 - emergency - Aust wide
+27.0750 CH 10 - Aust wide
+27.0850 CH 11 - AM calling channel - Aust wide
+27.1050 CH 12 - Aust wide
+27.1150 CH 13 - Aust wide
+27.1250 CH 14 - Aust wide
+27.1350 CH 15 - Aust wide
+27.1550 CH 16 - SSB calling channel - Aust wide
+27.1650 CH 17 - Aust wide
+27.1750 CH 18 - Aust wide
+27.1850 CH 19 - Aust wide
+27.2050 CH 20 - Aust wide
+27.2150 CH 21 - Aust wide
+27.2250 CH 22 - Aust wide
+27.2350 CH 23 - Aust wide
+27.2450 CH 24 - Aust wide
+27.2550 CH 25 - Aust wide
+27.2650 CH 26 - Aust wide
+27.2750 CH 27 - Aust wide
+27.2850 CH 28 - Aust wide
+27.2950 CH 29 - Aust wide
+27.3050 CH 30 - Aust wide
+27.3150 CH 31 - Aust wide
+27.3250 CH 32 - Aust wide
+27.3350 CH 33 - Aust wide
+27.3450 CH 34 - Aust wide
+27.3550 CH 35 - Aust wide
+27.3650 CH 36 - Aust wide
+27.3750 CH 37 - Aust wide
+27.3850 CH 38 - Aust wide
+27.3950 CH 39 - Aust wide 
+27.4050 CH 40 - Aust wide
+
+NOTE: Channel 35 LSB IS NOT a calling channel!
+
+UHF CB
+
+476.4250 CH 1 - Repeater output - Aust wide
+476.4500 CH 2 - Repeater output - Aust wide
+476.4750 CH 3 - Repeater output - Aust wide
+476.5000 CH 4 - Repeater output - Aust wide
+476.5250 CH 5 - Repeater output - output of emergency repeater/ simplex emergency channel - Aust wide
+476.5500 CH 6 - Repeater output - Aust wide
+476.5750 CH 7 - Repeater output - Aust wide
+476.6000 CH 8 - Repeater output - Aust wide
+476.6250 CH 9 - Simplex - Aust wide
+476.6500 CH 10 - Simplex - Aust wide
+476.6750 CH 11 - Simplex - Call channel - Aust wide
+476.7000 CH 12 - Simplex - Aust wide
+476.7250 CH 13 - Simplex - Aust wide
+476.7500 CH 14 - Simplex - Aust wide
+476.7750 CH 15 - Simplex - Aust wide
+476.8000 CH 16 - Simplex - Aust wide
+476.8250 CH 17 - Simplex - Aust wide
+476.8500 CH 18 - Simplex - Aust wide
+476.8750 CH 19 - Simplex - Aust wide
+476.9000 CH 20 - Simplex - Aust wide
+476.9250 CH 21 - Simplex - Aust wide
+476.9500 CH 22 - Simplex - Aust wide
+476.9750 CH 23 - Simplex - Aust wide
+477.0000 CH 24 - Simplex - Aust wide
+477.0250 CH 25 - Simplex - Aust wide
+477.0500 CH 26 - Simplex - Aust wide
+477.0750 CH 27 - Simplex - Aust wide
+477.1000 CH 28 - Simplex - Aust wide
+477.1250 CH 29 - Simplex - Aust wide
+477.1500 CH 30 - Simplex - Aust wide
+477.1750 CH 31 - Repeater input - Aust wide
+477.2000 CH 32 - Repeater input - Aust wide
+477.2250 CH 33 - Repeater input - Aust wide
+477.2500 CH 34 - Repeater input - Aust wide
+477.2750 CH 35 - Repeater input - repeater input of emergency repeater - Aust wide
+477.3000 CH 36 - Repeater input - Aust wide
+477.3250 CH 37 - Repeater input - Aust wide
+477.3500 CH 38 - Repeater input - Aust wide
+477.3750 CH 39 - Simplex - Aust wide
+477.4000 CH 40 - Simplex -Truckies channel (listen to this on highways) Aust wide
+
+Note: The repeater input and outputs can be used for simplex if no repeater is allocated for your area. But it is recommended not to use these channels in simplex mode.
+
+Cordless phones
+
+30.0750 - Aust wide 
+30.1000 - Aust wide 
+30.1250 - Aust wide
+30.1500 - Aust wide 
+30.1750 - Aust wide 
+30.2000 - Aust wide 
+30.2250 - Aust wide 
+30.2500 - Aust wide 
+30.2750 - Aust wide 
+30.3000 - Aust wide
+
+Baby monitor
+
+30.4000 - Aust wide 
+30.6000 - Aust wide
+
+Wireless microphones
+
+36.7000 - Wireless microphones
+
+Fast food drive throughs
+
+40.4100 
+40.4900
+
+Low power FM Walkie Talkie's
+
+55.0500
+55.1000
+55.1500
+202.1000
+202.2000
+202.3000
+202.4000
+
+27MHz marine radio
+
+27.6800 CH 68 - Aust wide
+27.7200 CH 72 - Aust wide
+27.8200 CH 82 - Aust wide
+27.8600 CH 86 - Aust wide
+27.8800 CH 88 - Distress - Aust wide
+27.9000 CH 90 - Aust wide
+27.9100 CH 91 - Aust wide
+27.9400 CH 94 - Aust wide
+27.9600 CH 96 - Aust wide
+27.9800 CH 98 - Aust wide
+
+VHF marine radio & SEAPHONE ,
+
+COAST TX SHIP TX UTILISATION 
+156.0500 160.6500 CH 1 - SEAPHONE
+160.7000 156.1000 CH 2 - SEAPHONE
+160.7500 156.1500 CH 3 - 
+160.8000 156.2000 CH 4 - SEAPHONE
+160.8500 156.2500 CH 5 - SEAPHONE
+156.3000 156.3000 CH 6 - PORT OPS/Coordinated search & rescue - ship to ship/ship to aircraft/aircraft to ship - Fremantle 
+Port Authority
+160.9500 156.3500 CH 7 - SEAPHONE
+156.4000 156.4000 CH 8 - PORT OPS - ship to ship - Fremantle Port Authority
+156.4500 156.4500 CH 9 - PORT OPS - coast to ship / ship to coast - ship to ship - Fremantle Port Authority
+156.5000 156.5000 CH 10 - PORT OPS - coast to ship / ship to coast - ship to ship
+156.5500 156.5500 CH 11 - PORT OPS - coast to ship / ship to coast
+156.6000 156.6000 CH 12 - PORT OPS/Intership safety of navigation - coast to ship / ship to coast - Fremantle Port Authority
+156.6500 156.6500 CH 13 - PORT OPS - coast to ship/ ship to coast - ship to ship
+156.7000 156.7000 CH 14 - PORT OPS - Fremantle Port Authority
+156.7500 156.7500 CH 15 -
+156.8000 156.8000 CH 16 - Distress, Safety & calling - to/from all stations - Fremantle Port Authority
+156.8500 156.6500 CH 17 - 
+161.5000 156.9000 CH 18 -
+161.5500 156.9500 CH 19 -
+161.6000 157.0000 CH 20 - PORT OPS - coast to ship / ship to coast
+161.6500 157.0500 CH 21 - REPEATER
+161.7000 157.1000 CH 22 - REPEATER
+161.7500 157.1500 CH 23 - SEAPHONE
+161.8000 157.2000 CH 24 - SEAPHONE
+161.8500 157.2500 CH 25 - SEAPHONE
+161.9000 157.3000 CH 26 - SEAPHONE
+161.9500 157.3500 CH 27 - SEAPHONE
+162.0000 157.4000 CH 28 - SEAPHONE
+160.6250 156.0250 CH 60 - SEAPHONE
+160.6750 156.0750 CH 61 - SEAPHONE
+160.7250 156.1250 CH 62 - SEAPHONE
+160.7750 156.1750 CH 63 - SEAPHONE
+160.8250 156.2250 CH 64 -
+160.8750 156.2750 CH 65 - PORT OPS
+160.9250 156.3250 CH 66 - SEAPHONE
+156.3750 156.3750 CH 67 - Weather information and secondary distress - Distress, Safety & calling - to/from all stations - all 
+stations - Fremantle Port Authority
+156.4250 156.4250 CH 68 - PORT OPS - coast to ship / ship to coast - Fremantle Port Authority
+156.4750 156.4750 CH 69 -
+156.5250 156.5250 CH 70 -
+156.5750 156.5750 CH 71 -
+156.6250 156.6250 CH 72 - PORT OPS/PROFESSIONAL FISHING VESSLES/PLEASURE CRAFT- coast to ship / ship to coast - 
+ship to ship
+156.6750 156.6750 CH 73 - PLEASURE CRAFT - coast to ship / ship to coast - ship to ship
+156.7250 156.7250 CH 74 - PORT OPS
+156.8750 156.8750 CH 77 - PROFESSIONAL FISHING VESSLES/ PLEASURE CRAFT - ship to ship
+161.5250 156.9250 CH 78 -
+161.5750 156.9750 CH 79 - PORT OPS - coast to ship / ship to coast
+161.6250 157.0250 CH 80 - REPEATER
+161.6750 157.0750 CH 81 - REPEATER
+161.7250 157.1250 CH 82 - REPEATER/ PROFESSIONAL FISHING VESSLES - coast to ship / ship to coast - ship to ship
+161.7750 157.1750 CH 83 - SEAPHONE
+161.8250 157.2250 CH 84 - SEAPHONE
+161.8750 157.2750 CH 85 - SEAPHONE
+161.9250 157.3250 CH 86 - SEAPHONE
+157.3750 157.3750 CH 87 - 
+162.0250 157.4250 CH 88 - SEAPHONE
+
+UHF BAND MARITIME CHANNELS (on ship comms)
+
+457.525 CH 1 - World wide
+457.550 CH 2 - World wide
+457.575 CH 3 - World wide
+467.525 CH 4 - World wide
+467.550 CH 5 - World wide
+467.575 CH 6 - World wide
+
+NOTE: May be paired to provide for repeater operation.
+
+Amateur 2 metre band
+
+146.0000 
+146.0250 Repeater input 
+146.0500 Repeater input
+146.0750 Repeater input
+146.1000 Repeater input
+146.1250 Repeater input
+146.1500 Repeater input
+146.1750 Repeater input
+146.2000 Repeater input
+146.2250 Repeater input
+146.2500 Repeater input
+146.2750 Repeater input
+146.3000 Repeater input
+146.3250 Repeater input
+146.3500 Repeater input
+146.3750 Repeater input
+146.4000 Repeater input
+146.4250 Simplex - CH 6425
+146.4500 Simplex - CH 6450
+146.4750 Simplex - CH 6475
+146.5000 Simplex - CH 6500
+146.5250 Simplex - CH 6525
+146.5500 Simplex - CH 6550
+146.5750 Simplex - CH 6575
+146.6000 Simplex - CH 6600
+146.6250 Repeater output - CH 6625 - STW9 Mast Lawnbrook Road WALLISTON Northern Corridor Radio Group
+146.6500 Repeater output - CH 6650
+146.6750 Repeater output - CH 6675
+146.7000 Repeater output - CH 6700
+146.7250 Repeater output - CH 6725
+146.7500 Repeater output - CH 6750 - 21 Waterloo Crescent LESMURDIE West Australian Repeater Group Inc
+146.7750 Repeater output - CH 6775 - Forbes Hill ROTTNEST ISLAND West Australian Repeater Group Inc
+146.8000 Repeater output - CH 6800
+146.8250 Repeater output - CH 6825
+146.8500 Repeater output - CH 6850
+146.8750 Repeater output - CH 6875
+146.9000 Repeater output - CH 6900
+146.9250 Repeater output - CH 6925
+146.9500 Repeater output - CH 6950 - 146B Stock Road ATTADALE West Australian Repeater Group Inc
+146.9750 Repeater output - CH 6975
+147.0000 Repeater output - CH 7000
+147.0250 Repeater output - CH 7025
+147.0500 Repeater output - CH 7050
+147.0750 Repeater output - CH 7075
+147.1000 Repeater output - CH 7100 - Abercorn Rd CHIDLOW Western Amateur Radio Group
+147.1250 Repeater output - CH 7125
+147.1500 Repeater output - CH 7150
+147.1750 Repeater output - CH 7175
+147.2000 Repeater output - CH 7200
+147.2250 Repeater output - CH 7225
+147.2500 Repeater output - CH 7250
+147.2750 Repeater output - CH 7275
+147.3000 Repeater output - CH 7300
+147.3250 Repeater output - CH 7325
+147.3500 Repeater output - CH 7350
+147.3750 Repeater output - CH 7375 - 59/61 Division St WELSHPOOL J R Morgan
+147.4000 Simplex - CH 7400
+147.4250 Simplex - CH 7425
+147.4500 Simplex - CH 7450
+147.4750 Simplex - CH 7475
+147.5000 Simplex - CH 7500
+147.5250 Simplex - CH 7525
+147.5500 Simplex - CH 7550
+147.5750 Simplex - CH 7575
+147.6000 Simplex - CH 7600
+147.6250 Repeater input
+147.6500 Repeater input
+147.6750 Repeater input
+147.7000 Repeater input
+147.7250 Repeater input
+147.7500 Repeater input
+147.7750 Repeater input
+147.8000 Repeater input
+147.8250 Repeater input
+147.8500 Repeater input
+147.8750 Repeater input
+147.9000 Repeater input
+147.9250 Repeater input
+147.9500 Repeater input
+147.9750 Repeater input
+148.0000
+
+Transair Two Way Radio
+
+472.6500 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+474.7500 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+472.9500 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+473.2500 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+473.5500 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+474.1500 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+474.4500 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+474.1250 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+473.8500 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+473.8000 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+473.3250 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+472.7500 Transwest Trading Groupsite Cockburn Road HAMILTON HILL
+
+ 
+
+Memo Communications
+465.0250 Unit 6 Norma Road Cnr Godfrey Street WALLISTON
+465.8000
+465.6250
+465.3250
+467.1250
+467.4250
+462.5750 2b Godfrey Street WALLISTON
+464.6500
+464.9750
+465.2750
+473.6250
+463.2250
+473.9250
+485.6250
+485.5750 Cnr Pinjarra & Arnold Rd MANDURAH
+466.4000 Central Park 152 to 158 St Georges Terrace PERTH
+494.5250
+491.5250
+490.9250
+473.8250
+467.0000
+466.2000 Wapet Site Lot 10 Chevin Road ROLEYSTONE
+471.4750 WA
+494.8750 WACA Nelson Crescent EAST PERTH
+495.0250
+509.5500
+509.6750
+509.9250
+
+Community newspapers
+488.2750 13 Godfrey Street WALLISTON
+
+Kimbers towing service
+507.4000 QV1 250 St Georges Terrace PERTH
+
+Communications Australia Pty Ltd
+474.0250 Murray Shire Site Pinjarra East
+472.4000
+485.6750 Lot 134 Godfrey Street WALLISTON
+474.0750
+473.9000
+474.0000
+474.3750
+150.4500
+473.4750
+473.0000
+473.7750
+412.5250
+466.1000 Birksgate Road NORTH FREMANTLE
+473.3000 Capita Building 197 St Georges Terrace PERTH
+
+Ejan electronics services
+162.9625 25 Brine Road KALAMUNDA
+164.2625
+163.5375
+
+Ford electronics pty ltd
+464.2500 79 Parramatta Road DOUBLEVIEW
+466.0500
+464.5500
+419.7000
+
+Motomara Communications
+472.5000 WA
+472.6250 Victoria Quay Fremantle Wharf FREMANTLE
+
+Tara Systems WA
+492.0250 Commercial Mast Wireless Hill Park ARDROSS
+471.4750 WA
+
+Motorola communications
+493.5000 Aust wide
+415.4500
+415.4750
+415.5000
+415.5250
+471.4750
+471.6250
+471.9000
+471.9750
+495.0500
+495.1750
+415.5500
+869.2625 Central Park 152 to 158 St Georges Terrace PERTH
+865.0125
+866.0125
+867.0125
+868.0125
+869.0125
+866.5125
+869.7625
+867.5125
+868.5125
+869.5125
+865.5125
+865.2625
+866.2625
+867.2625
+868.2625
+865.7625
+866.7625
+867.7625
+868.7625
+462.1250 STW9 Mast Lawnbrook Road WALLISTON
+173.2500 STW9 Mast Lawnbrook Road WALLISTON
+
