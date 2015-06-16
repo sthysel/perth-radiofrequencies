@@ -6,7 +6,7 @@ def getline(line, user):
     try:
         frequency = float(cols[0])
         if len(cols) == 2:
-            description = cols[1]
+            description = cols[1].translate(str.maketrans({",": " "}))
         else:
             description = ""
         return user, frequency, description
