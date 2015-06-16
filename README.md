@@ -1,2 +1,2 @@
-# perth-radiofrequencies
-A list of known Perth WA Radiofrequencies
+# Perth, Western Australia, radio frequencies
+A list of known Perth, Western Australia radio frequencies
