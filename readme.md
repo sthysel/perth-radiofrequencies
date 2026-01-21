@@ -1,0 +1,649 @@
+# Perth, Western Australia, radio frequencies
+
+| User                                       | Frequency | Description                                                                                                           |
+|--------------------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------|
+| Courier Australia                          | 473.15    | Philips Tvw7 Studio Site DIANELLA                                                                                     |
+| Courier Australia                          | 473.4     | Philips Groupsite 20 Hines Road OCONNER                                                                               |
+| Courier Australia                          | 474.025   | 473.7500 Swan Taxis Building 1008 Wellington Street WEST PERTH                                                        |
+| Courier Australia                          | 474.025   | Murray Shire Site Pinjarra East                                                                                       |
+| Courier Australia                          | 470.525   | QV1 250 St Georges Terrace PERTH                                                                                      |
+| Courier Australia                          | 470.95    | QV1 250 St Georges Terrace PERTH                                                                                      |
+| Courier Australia                          | 471.025   | 15 Avery St NEERABUP                                                                                                  |
+| Courier Australia                          | 470.7     | 15 Avery St NEERABUP                                                                                                  |
+| Courier Australia                          | 470.775   | Blue Bay Apartments 5 Valley Road HALLS HEAD                                                                          |
+| Courier Australia                          | 472.225   | Blue Bay Apartments 5 Valley Road HALLS HEAD                                                                          |
+| Community Repeater Sites                   | 470.625   | Sratacom Site Northwest Tower Laurence Road WALLISTON                                                                 |
+| Bankwest                                   | 487.275   | St Martins Tower 44 St Georges Terrace PERTH                                                                          |
+| GardenCity Shopping Centre                 | 463.35    | Admin Building Booragoon Shopping Complex Marmion Street BOORAGOON                                                    |
+| City of Melville                           | 462.975   | Commercial Mast Wireless Hill Park ARDROSS                                                                            |
+| City of Melville                           | 463.65    | Commercial Mast Wireless Hill Park ARDROSS                                                                            |
+| City of Melville                           | 464.0     | Commercial Mast Wireless Hill Park ARDROSS                                                                            |
+| Perth Zoo                                  | 469.65    | Zoo Grounds                                                                                                           |
+| Perth Zoo                                  | 465.1     | Zoo Admin Buldg 20 Labouchere Rd SOUTH PERTH                                                                          |
+| Beaurepairs                                | 487.75    | Philips Groupsite Windsor Towers 9 Parker Street SOUTH PERTH                                                          |
+| Freeway Motel                              | 450.375   | Freeway Motel 55 Mill Point Rd SOUTH PERTH                                                                            |
+| C.A.L.M.                                   | 78.25     | Doss Site Canning Mills Road Canning Mills.                                                                           |
+| C.A.L.M.                                   | 78.175    | (Hill T) Charles Searson Lookout NOWERGUP                                                                             |
+| C.A.L.M.                                   | 78.275    | MT Solus Jarrahdale WA                                                                                                |
+| Burswood Resort Casino                     | 494.95    | Burswood Resort VICTORIA PARK                                                                                         |
+| Park Shopping Centre                       | 450.05    | Park Shopping Centre Albany Hwy East VICTORIA PARK                                                                    |
+| Alinta Gas                                 | 164.375   | SECWA Site R44 Douglas Road MARTIN                                                                                    |
+| Alinta Gas                                 | 451.7     | FORRESTDALE                                                                                                           |
+| Alinta Gas                                 | 172.29    | WA Wide                                                                                                               |
+| Ministry of Justice                        | 486.85    | WA Wide                                                                                                               |
+| Ministry of Justice                        | 73.37     | Law Courts Cnr Irwin & Hay Streets PERTH                                                                              |
+| Juvenile Justice Division                  | 466.3     | Murdoch Drive MURDOCH                                                                                                 |
+| West Australian Newspapers                 | 464.625   | 54 Hasler Drive OSBORNE PARK                                                                                          |
+| West Australian Newspapers                 | 466.675   | 54 Hasler Drive OSBORNE PARK                                                                                          |
+| WA Fire Brigade                            | 78.05     | Cnr Congdon St & Stirling CLAREMONT                                                                                   |
+| WA Fire Brigade                            | 78.0625   | Moorgup Hill GINGIN                                                                                                   |
+| WA Fire Brigade                            | 78.075    | Doss Site Canning Mills Road Canning Mills                                                                            |
+| WA Wide                                    | 78.0875   | St John of God Hospital Blair Street BUNBURY                                                                          |
+| WA Wide                                    | 78.1      | Doss Site Canning Mills Road Canning Mills                                                                            |
+| WA Wide                                    | 78.125    | Lot230 Toodyay Rd REDHILL                                                                                             |
+| WA Wide                                    | 78.1375   | SECWA Site WOOROLOO                                                                                                   |
+| WA Wide                                    | 519.625   | WA Wide                                                                                                               |
+| WA Wide                                    | 519.9     | WA Wide                                                                                                               |
+| WA Wide                                    | 119.1     | WA Wide Aeronautical                                                                                                  |
+| Port Printing                              | 168.3375  | 7 Keegan Street OCONNOR                                                                                               |
+| City of Fremantle                          | 494.6     | Philips Groupsite 20 Hines Road OCONNER                                                                               |
+| City of Fremantle                          | 493.4     | Car Park Henderson St FREMANTLE                                                                                       |
+| Fremantle Port Authority                   | 469.9     | Port Authority Building 1 Cliff Street FREMANTLE                                                                      |
+| Fremantle Port Authority                   | 471.3     | Port Authority Building 1 Cliff Street FREMANTLE                                                                      |
+| Fremantle Port Authority                   | 474.5     | Port Authority Building 1 Cliff Street FREMANTLE                                                                      |
+| Fremantle Port Authority                   | 461.0188  | Port Authority Building 1 Cliff Street FREMANTLE                                                                      |
+| Fremantle Port Authority                   | 469.7     | Wharf FREMANTLE                                                                                                       |
+| Fremantle Port Authority                   | 169.0625  | North Quay NORTH FREMANTLE                                                                                            |
+| Fremantle Port Authority                   | 168.3875  | WA wide                                                                                                               |
+| Fremantle Terminals Ltd                    | 467.35    | Tydeman Road NORTH FREMANTLE                                                                                          |
+| Fremantle Terminals Ltd                    | 469.825   | Tydeman Road NORTH FREMANTLE                                                                                          |
+| Fremantle Terminals Ltd                    | 467.675   | Tydeman Road NORTH FREMANTLE                                                                                          |
+| Fremantle Terminals Ltd                    | 469.6     | Tydeman Road NORTH FREMANTLE                                                                                          |
+| Fremantle Terminals Ltd                    | 467.075   | No 11 Berth FREMANTLE                                                                                                 |
+| Fremantle Terminals Ltd                    | 469.625   | Conaust Harbour Workshop NORTH FREMANTLE                                                                              |
+| P & O Ports                                | 469.95    | Wharf FREMANTLE                                                                                                       |
+| P & O Ports                                | 469.975   | Wharf FREMANTLE                                                                                                       |
+| P & O Ports                                | 469.5     | Wharf FREMANTLE                                                                                                       |
+| P & O Ports                                | 464.6     | 39 Wood St FREMANTLE                                                                                                  |
+| P & O Ports                                | 450.275   | Fremantle Harbour Berth 4 5 11 and 12 North FREMANTLE                                                                 |
+| P & O Ports                                | 450.35    | Fremantle Harbour Berth 4 5 11 and 12 North FREMANTLE                                                                 |
+| P & O Ports                                | 450.4     | 46 Tydeman Road North Fremantle                                                                                       |
+| P & O Ports                                | 469.875   | Berth 4 and Berth 5 Port Beach Road NORTH FREMANTLE                                                                   |
+| P & O Ports                                | 450.125   | Fremantle Harbour Berths 4 5 and 6 NORTH FREMANTLE                                                                    |
+| Covich JF and Co                           | 75.4875   | 125 Rockingham Rd HAMILTON HILL                                                                                       |
+| Watsons Foods WA                           | 450.175   | Watsons Food Factory Area Hamilton Road SPEARWOOD                                                                     |
+| Watsons Foods WA                           | 471.375   | 174 Hamilton Rd Master Stn SPEARWOOD                                                                                  |
+| City of Cockburn                           | 79.575    | Wellard St BIBRA LAKE                                                                                                 |
+| City of Cockburn                           | 464.675   | Wellard St BIBRA LAKE                                                                                                 |
+| Cockburn Electrical Company                | 168.3375  | 30 Port Kembla Drive SPEARWOOD                                                                                        |
+| Westrail                                   | 168.79    | Comms Tower Railyard West                                                                                             |
+| Westrail                                   | 169.09    | Railway Station KEWDALE                                                                                               |
+| Westrail                                   | 168.43    | Wagr Operations Centre Mast Rail Yards KEWDALE                                                                        |
+| Westrail                                   | 168.64    | Wagr Operations Centre Mast Rail Yards KEWDALE                                                                        |
+| Westrail                                   | 411.325   | Freight Terminal KEWDALE                                                                                              |
+| Westrail                                   | 410.675   | Wagr Foreman Checkers Office Intermodal Terminal KEWDALE                                                              |
+| Westrail                                   | 410.925   | Wagr Foreman Checkers Office Intermodal Terminal KEWDALE                                                              |
+| Westrail                                   | 419.075   | Wagr on Video Tower SE Part of Freight Terminal KEWDALE                                                               |
+| Westrail                                   | 419.375   | Wagr Operations Centre Mast Rail Yards KEWDALE                                                                        |
+| Westrail                                   | 169.27    | Railway Station Robbs Jetty HAMILTON HILL                                                                             |
+| Westrail                                   | 169.15    | Railyard KWINANA                                                                                                      |
+| Westrail                                   | 169.18    | Wagr Yard Masters Tower Operations Centre FORRESTFIELD                                                                |
+| Westrail                                   | 169.27    | Wagr Yard Masters Tower Operations Centre FORRESTFIELD                                                                |
+| Westrail                                   | 418.575   | Wagr Yard Masters Tower Operations Centre FORRESTFIELD                                                                |
+| Westrail                                   | 168.67    | Wagr Radio Centre FORRESTFIELD                                                                                        |
+| Westrail                                   | 463.75    | Wagr Hump Control Tower Marshalling Yards FORRESTFIELD                                                                |
+| Westrail                                   | 463.55    | Wagr Hump Control Tower Marshalling Yards FORRESTFIELD                                                                |
+| Westrail                                   | 463.5     | Wagr Hump Control Tower Marshalling Yards FORRESTFIELD                                                                |
+| Westrail                                   | 463.475   | Wagr Hump Control Tower Marshalling Yards FORRESTFIELD                                                                |
+| Westrail                                   | 168.43    | Wagr Hump Control Tower Marshalling Yards FORRESTFIELD                                                                |
+| Westrail                                   | 168.7     | Wagr Hump Control Tower Marshalling Yards FORRESTFIELD                                                                |
+| Westrail                                   | 169.24    | Westrail Site MARTIN                                                                                                  |
+| Westrail                                   | 450.625   | Westrail Site MARTIN                                                                                                  |
+| Westrail                                   | 418.7     | Westrail Site MARTIN                                                                                                  |
+| Westrail                                   | 419.55    | Westrail Site MARTIN                                                                                                  |
+| Westrail                                   | 168.52    | Westrail Site MARTIN                                                                                                  |
+| Westrail                                   | 166.425   | Westrail Site MARTIN                                                                                                  |
+| Westrail                                   | 166.65    | Westrail Site MARTIN                                                                                                  |
+| Westrail                                   | 419.5     | Railway Station SUBIACO                                                                                               |
+| Westrail                                   | 419.5     | Railway Station Sevenoaks St CANNINGTON                                                                               |
+| Westrail                                   | 168.79    | Cbh Loader Cbh Grain Terminal Rockingham Rd KWINANA                                                                   |
+| Westrail                                   | 168.58    | Wagr Hump Control Tower Marshalling Yards FORRESTFIELD                                                                |
+| Westrail                                   | 168.64    | Yard Station KWINANA                                                                                                  |
+| Westrail                                   | 168.52    | West Australian Government Railways Ch22 Site MILLENDON                                                               |
+| Westrail                                   | 168.55    | Alcoa Bauxite Loader KWINANA                                                                                          |
+| Westrail                                   | 168.64    | Wagr Operations Centre Mast Rail Yards KEWDALE                                                                        |
+| Westrail                                   | 419.375   | Wagr Operations Centre Mast Rail Yards KEWDALE                                                                        |
+| Westrail                                   | 463.425   | Rail Terminal MIDLAND                                                                                                 |
+| Westrail                                   | 418.2     | Rail Terminal MIDLAND                                                                                                 |
+| Westrail                                   | 419.95    | Rail Terminal MIDLAND                                                                                                 |
+| Westrail                                   | 168.6     | Signal Cabin KWINANA                                                                                                  |
+| Westrail                                   | 172.98    | Westrail Interstate Terminal EAST PERTH                                                                               |
+| Westrail                                   | 418.175   | Westrail Interstate Terminal EAST PERTH                                                                               |
+| Westrail                                   | 418.725   | Westrail Interstate Terminal EAST PERTH                                                                               |
+| Westrail                                   | 166.525   | Westrail Interstate Terminal EAST PERTH                                                                               |
+| Westrail                                   | 419.75    | Westrail Interstate Terminal EAST PERTH                                                                               |
+| Westrail                                   | 410.625   | WA wide                                                                                                               |
+| Westrail                                   | 418.1     | Railway Station Leighton NORTH FREMANTLE                                                                              |
+| Westrail                                   | 166.6     | Railway Station Leighton NORTH FREMANTLE                                                                              |
+| Westrail                                   | 419.95    | Railway Station Leighton NORTH FREMANTLE                                                                              |
+| Westrail                                   | 169.21    | Mason Rd KWINANA                                                                                                      |
+| Westrail                                   | 412.025   | Mason Rd KWINANA                                                                                                      |
+| Westrail                                   | 418.15    | City Station Wellington Street PERTH                                                                                  |
+| Westrail                                   | 418.75    | City Station Wellington Street PERTH                                                                                  |
+| Westrail                                   | 418.325   | City Station Wellington Street PERTH                                                                                  |
+| Westrail                                   | 418.125   | Showgrounds Railway Station CLAREMONT                                                                                 |
+| Westrail                                   | 419.475   | Showgrounds Railway Station CLAREMONT                                                                                 |
+| Westrail                                   | 418.25    | Railway Station Commerce Ave ARMADALE                                                                                 |
+| Westrail                                   | 418.25    | Water Tower Cnr Ewen St and Princess Rd DOUBLEVIEW                                                                    |
+| Westrail                                   | 418.6     | Water Tower Cnr Ewen St and Princess Rd DOUBLEVIEW                                                                    |
+| Westrail                                   | 418.3     | Joondalup Water Tower Water Tower Park Moondara Way JOONDALUP                                                         |
+| Westrail                                   | 418.775   | Joondalup Water Tower Water Tower Park Moondara Way JOONDALUP                                                         |
+| Westrail                                   | 166.55    | Joondalup Water Tower Water Tower Park Moondara Way JOONDALUP                                                         |
+| Westrail                                   | 418.275   | Railway Station GLENDALOUGH                                                                                           |
+| Westrail                                   | 418.275   | Railway Station WHITFORDS                                                                                             |
+| Westrail                                   | 418.425   | Bridge Warwick Rd and Mitchell Fwy WARWICK                                                                            |
+| Westrail                                   | 418.325   | Roe St Tunnel NORTHBRIDGE                                                                                             |
+| Westrail                                   | 418.775   | Roe St Tunnel NORTHBRIDGE                                                                                             |
+| Westrail                                   | 168.64    | Yard Station KWINANA                                                                                                  |
+| Westrail                                   | 418.5     | Yard Station KWINANA                                                                                                  |
+| Westrail                                   | 418.85    | Yard Station KWINANA                                                                                                  |
+| Westrail                                   | 418.925   | Yard Station KWINANA                                                                                                  |
+| Westrail                                   | 169.18    | Wagr Yard Masters Tower Operations Centre FORRESTFIELD                                                                |
+| Westrail                                   | 169.27    | Wagr Yard Masters Tower Operations Centre FORRESTFIELD                                                                |
+| Westrail                                   | 418.4     | Wagr Yard Masters Tower Operations Centre FORRESTFIELD                                                                |
+| Westrail                                   | 418.475   | Wagr Yard Masters Tower Operations Centre FORRESTFIELD                                                                |
+| Westrail                                   | 418.575   | Wagr Yard Masters Tower Operations Centre FORRESTFIELD                                                                |
+| Westrail                                   | 418.875   | Wagr Yard Masters Tower Operations Centre FORRESTFIELD                                                                |
+| Westrail                                   | 418.625   | Railway Station WARWICK                                                                                               |
+| Westrail                                   | 419.25    | Marshalling Yards FORRESTFIELD                                                                                        |
+| Westrail                                   | 419.75    | Railway Station JOONDALUP                                                                                             |
+| Westrail                                   | 418.2     | Rail Terminal MIDLAND                                                                                                 |
+| Westrail                                   | 463.425   | Rail Terminal MIDLAND                                                                                                 |
+| Westrail                                   | 419.95    | Rail Terminal MIDLAND                                                                                                 |
+| Westrail                                   | 419.85    | Overpass Tonkin Hwy BAYSWATER                                                                                         |
+| Westrail                                   | 169.0     | WA Wide                                                                                                               |
+| Westrail                                   | 166.6     | West Australian Government Railways Ch22 Site MILLENDON                                                               |
+| Westrail                                   | 166.675   | West Australian Government Railways Site MILLENDON                                                                    |
+| Westrail                                   | 168.52    | West Australian Government Railways Site MILLENDON                                                                    |
+| Westrail                                   | 460.875   | West Australian Government Railways Site MILLENDON                                                                    |
+| Westrail                                   | 460.475   | West Australian Government Railways Site MILLENDON                                                                    |
+| Westrail                                   | 405.0     | West Australian Government Railways Site MILLENDON                                                                    |
+| Westrail                                   | 411.625   | WA Wide                                                                                                               |
+| Westrail                                   | 471.55    | Tasker Road KWINANA                                                                                                   |
+| Westrail                                   | 160.03    | Coal Unloading Siding KWINANA                                                                                         |
+| Westrail                                   | 168.64    | Cbh Loader Cbh Grain Terminal Rockingham Rd KWINANA                                                                   |
+| Westrail                                   | 166.45    | Westrail Site South Western Highway (Just North of Pinjarra) PINJARRA                                                 |
+| Westrail                                   | 172.86    | Moondyne Hill BULLSBROOK                                                                                              |
+| Westrail                                   | 412.25    | Alcoa Bauxite Loader KWINANA                                                                                          |
+| Westrail                                   | 411.9     | Alcoa Alumina Unloading KWINANA                                                                                       |
+| Westrail                                   | 411.625   | Cbh Loader Cbh Grain Terminal Rockingham Rd KWINANA                                                                   |
+| Westrail                                   | 412.0     | Blue Metal unloading area Westrail Freight Terminal KEWDALE                                                           |
+| Westrail                                   | 412.25    | Westrail Site JARRAHDALE                                                                                              |
+| Westrail                                   | 412.45    | WAGR Site Alcoa Alumina Refinery PINJARRA                                                                             |
+| National Rail Corporation Ltd              | 418.55    | Wagr Foreman Checkers Office Intermodal Terminal KEWDALE                                                              |
+| National Rail Corporation Ltd              | 418.35    | Wagr Foreman Checkers Office Intermodal Terminal KEWDALE                                                              |
+| National Rail Corporation Ltd              | 418.65    | Wagr Foreman Checkers Office Intermodal Terminal KEWDALE                                                              |
+| National Rail Corporation Ltd              | 418.95    | Wagr Foreman Checkers Office Intermodal Terminal KEWDALE                                                              |
+| 96FM                                       | 462.125   | STW9 Mast Lawnbrook Road WALLISTON                                                                                    |
+| 96FM                                       | 173.25    | STW9 Mast Lawnbrook Road WALLISTON                                                                                    |
+| Channel 9 TV                               | 487.65    | Bank West Tower 108 St Georges Terrace PERTH                                                                          |
+| Channel 9 TV                               | 487.35    | Bank West Tower 108 St Georges Terrace PERTH                                                                          |
+| Channel 9 TV                               | 486.45    | Bank West Tower 108 St Georges Terrace PERTH                                                                          |
+| Channel 9 TV                               | 486.375   | WA wide                                                                                                               |
+| Channel 9 TV                               | 485.425   | WA wide                                                                                                               |
+| Channel 9 TV                               | 487.5     | WA wide                                                                                                               |
+| Channel 9 TV                               | 485.05    | WA wide                                                                                                               |
+| Channel 9 TV                               | 168.9375  | Channel 9 TV Studios Hayes Avenue DIANELLA                                                                            |
+| Channel 7 TV                               | 419.075   | WA wide                                                                                                               |
+| Channel 7 TV                               | 471.925   | WA wide                                                                                                               |
+| Channel 7 TV                               | 484.875   | WA wide                                                                                                               |
+| Channel 7 TV                               | 494.8     | WA wide                                                                                                               |
+| Channel 7 TV                               | 494.9     | WA wide                                                                                                               |
+| Channel 7 TV                               | 494.85    | WA wide                                                                                                               |
+| Channel 7 TV                               | 463.875   | WA wide                                                                                                               |
+| Channel 7 TV                               | 474.875   | WA wide                                                                                                               |
+| Channel 7 TV                               | 463.2     | WA wide                                                                                                               |
+| Channel 7 TV                               | 177.5     | Tvw7 Mast Television Road BICKLEY                                                                                     |
+| Channel 7 TV                               | 161.2625  | Philips Tvw7 Studio Site DIANELLA                                                                                     |
+| Channel 7 TV                               | 163.4     | Philips Tvw7 Studio Site DIANELLA                                                                                     |
+| Channel 7 TV                               | 463.2     | Philips Tvw7 Studio Site DIANELLA                                                                                     |
+| Channel 7 TV                               | 94.5      | fm                                                                                                                    |
+| Channel 7 TV                               | 494.5     | FM Site Tvw7 Lease Television Road BICKLEY pmfm                                                                       |
+| Channel 7 TV                               | 492.425   | FM Site Tvw7 Lease Television Road BICKLEY                                                                            |
+| Channel 7 TV                               | 928.4625  | FM Site Tvw7 Lease Television Road BICKLEY channel 10                                                                 |
+| Channel 7 TV                               | 460.15    | FM Site Tvw7 Lease Television Road BICKLEY                                                                            |
+| Channel 7 TV                               | 473.95    | Channel 10 TV Transmitter Site Welshpool Road CARMEL                                                                  |
+| Channel 7 TV                               | 473.05    | New10 Cottonwood Cres DIANELLA                                                                                        |
+| Channel 7 TV                               | 473.35    | New10 Cottonwood Cres DIANELLA                                                                                        |
+| Channel 7 TV                               | 473.65    | New10 Cottonwood Cres DIANELLA                                                                                        |
+| Channel 7 TV                               | 473.35    | WA wide                                                                                                               |
+| Channel 7 TV                               | 473.95    | WA wide                                                                                                               |
+| Channel 7 TV                               | 474.85    | 216 St Georges Terrace and Portable PERTH                                                                             |
+| Australian Protective Service              | 485.525   | Bank West Tower 108 St Georges Terrace PERTH                                                                          |
+| Australian Protective Service              | 486.15    | 300 Horriemiller Dr Intntl Airport PERTH                                                                              |
+| SES                                        | 459.1     | WASES Compound Raymond Road WALLISTON                                                                                 |
+| SES                                        | 466.925   | WASES Compound Raymond Road WALLISTON                                                                                 |
+| SES                                        | 123.1     | 91 Leake Street BELMONT - Aeronautical mobile                                                                         |
+| SES                                        | 131.6     | 91 Leake Street BELMONT - Aeronautical mobile                                                                         |
+| SES                                        | 467.225   | (Hill T) Charles Searson Lookout NOWERGUP                                                                             |
+| SES                                        | 467.475   | Westrail Site MARTIN                                                                                                  |
+| SES                                        | 467.475   | Padbury Road GREENMOUNT                                                                                               |
+| SES                                        | 468.625   | Padbury Road GREENMOUNT                                                                                               |
+| SES                                        | 467.475   | Lot230 Toodyay Rd REDHILL                                                                                             |
+| SES                                        | 467.725   | SECWA Site R107 off Scrivener Road SERPENTINE                                                                         |
+| Boat Torque                                | 464.75    | 16 Ford Road LESMURDIE                                                                                                |
+| Boat Torque                                | 475.05    | Barrack St Jetty PERTH                                                                                                |
+| Coates Hire                                | 419.15    | Lot 134 Godfrey Street WALLISTON                                                                                      |
+| Coates Hire                                | 418.825   | Lot 134 Godfrey Street WALLISTON                                                                                      |
+| Cockburn hire                              | 493.25    | 13 Godfrey Street WALLISTON                                                                                           |
+| Pace Couriers                              | 508.9     | QV1 250 St Georges Terrace PERTH                                                                                      |
+| Daynite towing                             | 163.05    | QV1 250 St Georges Terrace PERTH                                                                                      |
+| Coca Cola                                  | 466.225   | QV1 250 St Georges Terrace PERTH                                                                                      |
+| Coca Cola                                  | 474.525   | Walliston Transfer Station Lawnbrook Road BICKLEY                                                                     |
+| Buswest                                    | 487.575   | QV1 250 St Georges Terrace PERTH                                                                                      |
+| Dept of Transport                          | 462.5     | Capita Building 197 St Georges Terrace PERTH - a lot of data goes over on this! I think it may be MDT.                |
+| Dept of Transport                          | 154.625   | Water Auth Reservoir Boundary Road MOSMAN PARK                                                                        |
+| Fisheries Department of WA                 | 164.7125  | Turner Hill PINJARRA                                                                                                  |
+| Fisheries Department of WA                 | 164.75    | Doss Site Canning Mills Road Canning Mills.                                                                           |
+| Fisheries Department of WA                 | 164.725   | Observation City West Coast Highway SCARBOROUGH                                                                       |
+| Myer Stores security                       | 469.725   | Newman St FREMANTLE                                                                                                   |
+| Myer Stores security                       | 469.7     | Newman St FREMANTLE                                                                                                   |
+| St John Ambulance                          | 463.275   | Channel 10 TV Transmitter Site Welshpool Road CARMEL                                                                  |
+| St John Ambulance                          | 412.475   | Channel 10 TV Transmitter Site Welshpool Road CARMEL                                                                  |
+| St John Ambulance                          | 412.65    | Channel 10 TV Transmitter Site Welshpool Road CARMEL                                                                  |
+| St John Ambulance                          | 412.75    | Channel 10 TV Transmitter Site Welshpool Road CARMEL                                                                  |
+| St John Ambulance                          | 463.275   | Admiral Road Byford WA                                                                                                |
+| St John Ambulance                          | 413.075   | Admiral Road Byford WA                                                                                                |
+| St John Ambulance                          | 413.3     | Admiral Road Byford WA                                                                                                |
+| St John Ambulance                          | 412.75    | Admiral Road Byford WA                                                                                                |
+| St John Ambulance                          | 78.6625   | Admiral Road Byford WA                                                                                                |
+| St John Ambulance                          | 414.15    | Admiral Road Byford WA                                                                                                |
+| St John Ambulance                          | 451.25    | Admiral Road Byford WA                                                                                                |
+| St John Ambulance                          | 463.275   | Telstra Exchange Simpson Avenue ROCKINGHAM                                                                            |
+| St John Ambulance                          | 413.025   | Telstra Exchange Simpson Avenue ROCKINGHAM                                                                            |
+| St John Ambulance                          | 412.75    | Telstra Exchange Simpson Avenue ROCKINGHAM                                                                            |
+| St John Ambulance                          | 463.275   | Dumas House 2 Havelock Street WEST PERTH                                                                              |
+| St John Ambulance                          | 463.275   | Royal Perth Hospital Wellington Street PERTH                                                                          |
+| St John Ambulance                          | 413.125   | Royal Perth Hospital Wellington Street PERTH                                                                          |
+| St John Ambulance                          | 412.75    | Royal Perth Hospital Wellington Street PERTH                                                                          |
+| St John Ambulance                          | 463.275   | Telstra CMTS WAWA Copperhead Ave PADBURY                                                                              |
+| St John Ambulance                          | 412.575   | Telstra CMTS WAWA Copperhead Ave PADBURY                                                                              |
+| St John Ambulance                          | 412.75    | Telstra CMTS WAWA Copperhead Ave PADBURY                                                                              |
+| St John Ambulance                          | 463.275   | Dumas House 2 Havelock Street WEST PERTH                                                                              |
+| St John Ambulance                          | 413.15    | Dumas House 2 Havelock Street WEST PERTH                                                                              |
+| St John Ambulance                          | 413.35    | Fremantle Hospital Lot 1970 Alma Street FREMANTLE                                                                     |
+| St John Ambulance                          | 412.75    | Fremantle Hospital Lot 1970 Alma Street FREMANTLE                                                                     |
+| St John Ambulance                          | 463.275   | Fremantle Hospital Lot 1970 Alma Street FREMANTLE                                                                     |
+| St John Ambulance                          | 413.225   | Fremantle Hospital Lot 1970 Alma Street FREMANTLE                                                                     |
+| St John Ambulance                          | 463.275   | Lot230 Toodyay Rd REDHILL                                                                                             |
+| St John Ambulance                          | 413.1     | Lot230 Toodyay Rd REDHILL                                                                                             |
+| St John Ambulance                          | 412.75    | Lot230 Toodyay Rd REDHILL                                                                                             |
+| St John Ambulance                          | 413.375   | Lot230 Toodyay Rd REDHILL                                                                                             |
+| St John Ambulance                          | 78.7      | Lot230 Toodyay Rd REDHILL                                                                                             |
+| St John Ambulance                          | 414.475   | Lot230 Toodyay Rd REDHILL                                                                                             |
+| St John Ambulance                          | 463.275   | Exchange QUINNS ROCK                                                                                                  |
+| St John Ambulance                          | 413.025   | Exchange QUINNS ROCK                                                                                                  |
+| St John Ambulance                          | 412.75    | Exchange QUINNS ROCK                                                                                                  |
+| St John Ambulance                          | 413.175   | Exchange QUINNS ROCK                                                                                                  |
+| St John Ambulance                          | 463.275   | Smiths Mill Hill GIDGEGANNUP                                                                                          |
+| St John Ambulance                          | 412.75    | Smiths Mill Hill GIDGEGANNUP                                                                                          |
+| St John Ambulance                          | 413.425   | Smiths Mill Hill GIDGEGANNUP                                                                                          |
+| St John Ambulance                          | 412.75    | CMTS Site off Scarp Road PINJARRA                                                                                     |
+| St John Ambulance                          | 463.275   | CMTS Site off Scarp Road PINJARRA                                                                                     |
+| St John Ambulance                          | 413.425   | CMTS Site off Scarp Road PINJARRA                                                                                     |
+| St John Ambulance                          | 413.175   | CMTS Site off Scarp Road PINJARRA                                                                                     |
+| St John Ambulance                          | 469.525   | WA wide                                                                                                               |
+| St John Ambulance                          | 469.575   | WA wide                                                                                                               |
+| St John Ambulance                          | 458.025   | WA wide                                                                                                               |
+| St John Ambulance                          | 458.075   | WA wide                                                                                                               |
+| St John Ambulance                          | 415.45    | WA wide                                                                                                               |
+| ABC TV                                     | 463.85    | ABC Studios Adelaide Terrace PERTH                                                                                    |
+| ABC TV                                     | 474.275   | ABC Studios Adelaide Terrace PERTH                                                                                    |
+| ABC TV                                     | 168.6125  | ABC Studios Adelaide Terrace PERTH                                                                                    |
+| ABC TV                                     | 172.9375  | ABC Studios Adelaide Terrace PERTH                                                                                    |
+| ABC TV                                     | 153.7625  | ABC Studios Adelaide Terrace PERTH                                                                                    |
+| ABC TV                                     | 169.125   | ABC Studios Adelaide Terrace PERTH                                                                                    |
+| ABC TV                                     | 463.85    | ABC Studios Adelaide Terrace PERTH                                                                                    |
+| POLICE                                     | 467.85    | CH. 1                                                                                                                 |
+| POLICE                                     | 467.875   | CH. 2 VICTORIA PARK Doss Site Canning Mills Road Canning Mills                                                        |
+| POLICE                                     | 467.9     | CH. 3 Bank West Tower 108 St Georges Terrace PERTH                                                                    |
+| POLICE                                     | 467.925   | CH. 4                                                                                                                 |
+| POLICE                                     | 467.95    | CH. 5                                                                                                                 |
+| POLICE                                     | 467.975   | CH. 6                                                                                                                 |
+| POLICE                                     | 468.0     | CH. 7 - ROTTNEST Lighthouse ROTTNEST ISLAND                                                                           |
+| POLICE                                     | 468.025   | CH. 8 - ARMADALE Police Site Ashurst Drive LESMURDIE                                                                  |
+| POLICE                                     | 468.05    | CH. 9 - KINGS PARK Telstra Microwave Site MT Yokine Osborne Road Dianella                                             |
+| POLICE                                     | 468.075   | CH. 10 -                                                                                                              |
+| POLICE                                     | 468.1     | CH. 11 MT Solus Jarrahdale                                                                                            |
+| POLICE                                     | 468.125   | CH. 12 - MUNSTER Wawa Site off Henderson Road East Reservoir RFDS Hut MUNSTER                                         |
+| POLICE                                     | 468.15    | CH. 13 - CITY BEACH Wawa Water Tank off Kalinda Dr CITY BEACH                                                         |
+| POLICE                                     | 468.175   | CH. 14                                                                                                                |
+| POLICE                                     | 468.2     | CH. 15 Bank West Tower 108 St Georges Terrace PERTH                                                                   |
+| POLICE                                     | 468.225   | CH. 16 - ROCKINGHAM Cbh Grain Terminal Rockingham Road ROCKINGHAM                                                     |
+| POLICE                                     | 468.25    | CH. 17 Police Site off Scarp Road Near North Spur Road Pinjarra East                                                  |
+| POLICE                                     | 468.275   | CH. 18 Wellington St Water Tower MOSMAN PARK                                                                          |
+| POLICE                                     | 468.3     | CH. 19                                                                                                                |
+| POLICE                                     | 468.325   | CH. 20                                                                                                                |
+| POLICE                                     | 468.35    | CH. 21 Telstra Microwave Site MT Yokine Osborne Road Dianella.                                                        |
+| POLICE                                     | 468.375   | CH. 22                                                                                                                |
+| POLICE                                     | 468.4     | CH. 23 - FREMANTLE BEATS Swanbourne Street FREMANTLE                                                                  |
+| POLICE                                     | 468.425   | CH. 24                                                                                                                |
+| POLICE                                     | 468.45    | CH. 25                                                                                                                |
+| POLICE                                     | 468.475   | CH. 26 - EMERGANCIES / misc Dumas House 2 Havelock Street WEST PERTH                                                  |
+| POLICE                                     | 468.5     | CH. 27 Bank West Tower 108 St Georges Terrace PERTH                                                                   |
+| POLICE                                     | 468.525   | CH. 28                                                                                                                |
+| POLICE                                     | 468.55    | CH. 29                                                                                                                |
+| POLICE                                     | 468.575   | CH. 30 CALM Communications Groupsite Hayman Road KENSINGTON                                                           |
+| POLICE                                     | 468.6     | CH. 31                                                                                                                |
+| POLICE                                     | 468.625   | CH. 32 Padbury Road GREENMOUNT - SES uses this as well                                                                |
+| POLICE                                     | 468.65    | CH. 33                                                                                                                |
+| POLICE                                     | 468.675   | CH. 34 365 Wellington Street PERTH                                                                                    |
+| POLICE                                     | 468.7     | CH. 35 - FREMANTLE ENQUIRIES Swanbourne Street FREMANTLE                                                              |
+| POLICE                                     | 468.725   | CH. 36 Paxwold Gilchrist Road LESMURDIE                                                                               |
+| POLICE                                     | 468.75    | CH. 37 Wawa Site MT Gungin HACKETTS GULLY                                                                             |
+| POLICE                                     | 468.775   | CH. 38                                                                                                                |
+| POLICE                                     | 468.8     | CH. 39 Bank West Tower 108 St Georges Terrace PERTH                                                                   |
+| POLICE                                     | 468.825   | CH. 40 (Hill T) Charles Searson Lookout NOWERGUP                                                                      |
+| POLICE                                     | 468.85    | CH. 41 Water Tank 84 Prisk Street KARRINYUP                                                                           |
+| POLICE                                     | 468.875   | CH. 42                                                                                                                |
+| POLICE                                     | 468.9     | CH. 43                                                                                                                |
+| POLICE                                     | 468.925   | CH. 44                                                                                                                |
+| POLICE                                     | 468.95    | CH. 45 MT Eliza PERTH                                                                                                 |
+| POLICE                                     | 468.975   | CH. 46 STW9 Mast Lawnbrook Road WALLISTON                                                                             |
+| POLICE                                     | 469.0     | CH. 47 - FREMANTLE Swanbourne Street FREMANTLE                                                                        |
+| POLICE                                     | 469.025   | CH. 48 Koondoola Avenue KOONDOOLA                                                                                     |
+| POLICE                                     | 469.05    | CH. 49 Telstra Microwave Site Great Eastern Highway SAWYERS VALLEY                                                    |
+| POLICE                                     | 469.075   | CH. 50 Shoran Court Reserve OCEAN REEF                                                                                |
+| POLICE                                     | 469.1     | CH. 51 Bank West Tower 108 St Georges Terrace PERTH                                                                   |
+| POLICE                                     | 469.125   | CH. 52 (Hill T) Charles Searson Lookout NOWERGUP                                                                      |
+| POLICE                                     | 469.15    | CH. 53 Smiths Mill Hill GIDGEGANNUP                                                                                   |
+| POLICE                                     | 469.175   | CH. 54 Padbury Road GREENMOUNT                                                                                        |
+| POLICE                                     | 469.2     | CH. 55                                                                                                                |
+| POLICE                                     | 469.225   | CH. 56 Police Site Ashurst Drive LESMURDIE                                                                            |
+| POLICE                                     | 469.25    | CH. 57 Wawa Tanks TWO ROCKS                                                                                           |
+| POLICE                                     | 469.275   | CH. 58 Water Tower Mcdonald St JOONDANNA                                                                              |
+| POLICE                                     | 469.3     | CH. 59 Swanbourne Street FREMANTLE                                                                                    |
+| POLICE                                     | 469.325   | CH. 60                                                                                                                |
+| POLICE                                     | 469.35    | CH. 61                                                                                                                |
+| POLICE                                     | 469.375   | CH. 62 Water Tower Hale Street WATERMAN                                                                               |
+| POLICE                                     | 469.4     | CH. 63 Bank West Tower 108 St Georges Terrace PERTH                                                                   |
+| POLICE                                     | 469.425   | CH. 64 Cbh Grain Terminal Rockingham Road ROCKINGHAM                                                                  |
+| SECURITY WORK                              | 463.8     | City of Melville Security (Thanks Darren)                                                                             |
+| HF CB 27 MHz                               | 26.965    | CH 1 - Aust wide                                                                                                      |
+| HF CB 27 MHz                               | 26.975    | CH 2 - Aust wide                                                                                                      |
+| HF CB 27 MHz                               | 26.985    | CH 3 - Aust wide                                                                                                      |
+| HF CB 27 MHz                               | 27.005    | CH 4 - Aust wide                                                                                                      |
+| HF CB 27 MHz                               | 27.015    | CH 5 - Aust wide                                                                                                      |
+| HF CB 27 MHz                               | 27.025    | CH 6 - Aust wide                                                                                                      |
+| HF CB 27 MHz                               | 27.035    | CH 7 - Aust wide                                                                                                      |
+| HF CB 27 MHz                               | 27.055    | CH 8 - Truckies channel - Aust wide                                                                                   |
+| HF CB 27 MHz                               | 27.065    | CH 9 - emergency - Aust wide                                                                                          |
+| HF CB 27 MHz                               | 27.075    | CH 10 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.085    | CH 11 - AM calling channel - Aust wide                                                                                |
+| HF CB 27 MHz                               | 27.105    | CH 12 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.115    | CH 13 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.125    | CH 14 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.135    | CH 15 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.155    | CH 16 - SSB calling channel - Aust wide                                                                               |
+| HF CB 27 MHz                               | 27.165    | CH 17 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.175    | CH 18 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.185    | CH 19 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.205    | CH 20 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.215    | CH 21 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.225    | CH 22 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.235    | CH 23 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.245    | CH 24 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.255    | CH 25 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.265    | CH 26 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.275    | CH 27 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.285    | CH 28 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.295    | CH 29 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.305    | CH 30 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.315    | CH 31 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.325    | CH 32 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.335    | CH 33 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.345    | CH 34 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.355    | CH 35 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.365    | CH 36 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.375    | CH 37 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.385    | CH 38 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.395    | CH 39 - Aust wide                                                                                                     |
+| HF CB 27 MHz                               | 27.405    | CH 40 - Aust wide                                                                                                     |
+| UHF CB                                     | 476.425   | CH 1 - Repeater output - Aust wide                                                                                    |
+| UHF CB                                     | 476.45    | CH 2 - Repeater output - Aust wide                                                                                    |
+| UHF CB                                     | 476.475   | CH 3 - Repeater output - Aust wide                                                                                    |
+| UHF CB                                     | 476.5     | CH 4 - Repeater output - Aust wide                                                                                    |
+| UHF CB                                     | 476.525   | CH 5 - Repeater output - output of emergency repeater/ simplex emergency channel - Aust wide                          |
+| UHF CB                                     | 476.55    | CH 6 - Repeater output - Aust wide                                                                                    |
+| UHF CB                                     | 476.575   | CH 7 - Repeater output - Aust wide                                                                                    |
+| UHF CB                                     | 476.6     | CH 8 - Repeater output - Aust wide                                                                                    |
+| UHF CB                                     | 476.625   | CH 9 - Simplex - Aust wide                                                                                            |
+| UHF CB                                     | 476.65    | CH 10 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.675   | CH 11 - Simplex - Call channel - Aust wide                                                                            |
+| UHF CB                                     | 476.7     | CH 12 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.725   | CH 13 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.75    | CH 14 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.775   | CH 15 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.8     | CH 16 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.825   | CH 17 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.85    | CH 18 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.875   | CH 19 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.9     | CH 20 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.925   | CH 21 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.95    | CH 22 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 476.975   | CH 23 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 477.0     | CH 24 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 477.025   | CH 25 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 477.05    | CH 26 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 477.075   | CH 27 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 477.1     | CH 28 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 477.125   | CH 29 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 477.15    | CH 30 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 477.175   | CH 31 - Repeater input - Aust wide                                                                                    |
+| UHF CB                                     | 477.2     | CH 32 - Repeater input - Aust wide                                                                                    |
+| UHF CB                                     | 477.225   | CH 33 - Repeater input - Aust wide                                                                                    |
+| UHF CB                                     | 477.25    | CH 34 - Repeater input - Aust wide                                                                                    |
+| UHF CB                                     | 477.275   | CH 35 - Repeater input - repeater input of emergency repeater - Aust wide                                             |
+| UHF CB                                     | 477.3     | CH 36 - Repeater input - Aust wide                                                                                    |
+| UHF CB                                     | 477.325   | CH 37 - Repeater input - Aust wide                                                                                    |
+| UHF CB                                     | 477.35    | CH 38 - Repeater input - Aust wide                                                                                    |
+| UHF CB                                     | 477.375   | CH 39 - Simplex - Aust wide                                                                                           |
+| UHF CB                                     | 477.4     | CH 40 - Simplex -Truckies channel (listen to this on highways) Aust wide                                              |
+| Cordless phones                            | 30.075    | - Aust wide                                                                                                           |
+| Cordless phones                            | 30.1      | - Aust wide                                                                                                           |
+| Cordless phones                            | 30.125    | - Aust wide                                                                                                           |
+| Cordless phones                            | 30.15     | - Aust wide                                                                                                           |
+| Cordless phones                            | 30.175    | - Aust wide                                                                                                           |
+| Cordless phones                            | 30.2      | - Aust wide                                                                                                           |
+| Cordless phones                            | 30.225    | - Aust wide                                                                                                           |
+| Cordless phones                            | 30.25     | - Aust wide                                                                                                           |
+| Cordless phones                            | 30.275    | - Aust wide                                                                                                           |
+| Cordless phones                            | 30.3      | - Aust wide                                                                                                           |
+| Baby monitor                               | 30.4      | - Aust wide                                                                                                           |
+| Baby monitor                               | 30.6      | - Aust wide                                                                                                           |
+| Wireless microphones                       | 36.7      | - Wireless microphones                                                                                                |
+| 27MHz marine radio                         | 27.68     | CH 68 - Aust wide                                                                                                     |
+| 27MHz marine radio                         | 27.72     | CH 72 - Aust wide                                                                                                     |
+| 27MHz marine radio                         | 27.82     | CH 82 - Aust wide                                                                                                     |
+| 27MHz marine radio                         | 27.86     | CH 86 - Aust wide                                                                                                     |
+| 27MHz marine radio                         | 27.88     | CH 88 - Distress - Aust wide                                                                                          |
+| 27MHz marine radio                         | 27.9      | CH 90 - Aust wide                                                                                                     |
+| 27MHz marine radio                         | 27.91     | CH 91 - Aust wide                                                                                                     |
+| 27MHz marine radio                         | 27.94     | CH 94 - Aust wide                                                                                                     |
+| 27MHz marine radio                         | 27.96     | CH 96 - Aust wide                                                                                                     |
+| 27MHz marine radio                         | 27.98     | CH 98 - Aust wide                                                                                                     |
+| COAST TX SHIP TX UTILISATION               | 156.05    | 160.6500 CH 1 - SEAPHONE                                                                                              |
+| COAST TX SHIP TX UTILISATION               | 160.7     | 156.1000 CH 2 - SEAPHONE                                                                                              |
+| COAST TX SHIP TX UTILISATION               | 160.75    | 156.1500 CH 3 -                                                                                                       |
+| COAST TX SHIP TX UTILISATION               | 160.8     | 156.2000 CH 4 - SEAPHONE                                                                                              |
+| COAST TX SHIP TX UTILISATION               | 160.85    | 156.2500 CH 5 - SEAPHONE                                                                                              |
+| COAST TX SHIP TX UTILISATION               | 156.3     | 156.3000 CH 6 - PORT OPS/Coordinated search & rescue - ship to ship/ship to aircraft/aircraft to ship - Fremantle     |
+| Port Authority                             | 160.95    | 156.3500 CH 7 - SEAPHONE                                                                                              |
+| Port Authority                             | 156.4     | 156.4000 CH 8 - PORT OPS - ship to ship - Fremantle Port Authority                                                    |
+| Port Authority                             | 156.45    | 156.4500 CH 9 - PORT OPS - coast to ship / ship to coast - ship to ship - Fremantle Port Authority                    |
+| Port Authority                             | 156.5     | 156.5000 CH 10 - PORT OPS - coast to ship / ship to coast - ship to ship                                              |
+| Port Authority                             | 156.55    | 156.5500 CH 11 - PORT OPS - coast to ship / ship to coast                                                             |
+| Port Authority                             | 156.6     | 156.6000 CH 12 - PORT OPS/Intership safety of navigation - coast to ship / ship to coast - Fremantle Port Authority   |
+| Port Authority                             | 156.65    | 156.6500 CH 13 - PORT OPS - coast to ship/ ship to coast - ship to ship                                               |
+| Port Authority                             | 156.7     | 156.7000 CH 14 - PORT OPS - Fremantle Port Authority                                                                  |
+| Port Authority                             | 156.75    | 156.7500 CH 15 -                                                                                                      |
+| Port Authority                             | 156.8     | 156.8000 CH 16 - Distress  Safety & calling - to/from all stations - Fremantle Port Authority                         |
+| Port Authority                             | 156.85    | 156.6500 CH 17 -                                                                                                      |
+| Port Authority                             | 161.5     | 156.9000 CH 18 -                                                                                                      |
+| Port Authority                             | 161.55    | 156.9500 CH 19 -                                                                                                      |
+| Port Authority                             | 161.6     | 157.0000 CH 20 - PORT OPS - coast to ship / ship to coast                                                             |
+| Port Authority                             | 161.65    | 157.0500 CH 21 - REPEATER                                                                                             |
+| Port Authority                             | 161.7     | 157.1000 CH 22 - REPEATER                                                                                             |
+| Port Authority                             | 161.75    | 157.1500 CH 23 - SEAPHONE                                                                                             |
+| Port Authority                             | 161.8     | 157.2000 CH 24 - SEAPHONE                                                                                             |
+| Port Authority                             | 161.85    | 157.2500 CH 25 - SEAPHONE                                                                                             |
+| Port Authority                             | 161.9     | 157.3000 CH 26 - SEAPHONE                                                                                             |
+| Port Authority                             | 161.95    | 157.3500 CH 27 - SEAPHONE                                                                                             |
+| Port Authority                             | 162.0     | 157.4000 CH 28 - SEAPHONE                                                                                             |
+| Port Authority                             | 160.625   | 156.0250 CH 60 - SEAPHONE                                                                                             |
+| Port Authority                             | 160.675   | 156.0750 CH 61 - SEAPHONE                                                                                             |
+| Port Authority                             | 160.725   | 156.1250 CH 62 - SEAPHONE                                                                                             |
+| Port Authority                             | 160.775   | 156.1750 CH 63 - SEAPHONE                                                                                             |
+| Port Authority                             | 160.825   | 156.2250 CH 64 -                                                                                                      |
+| Port Authority                             | 160.875   | 156.2750 CH 65 - PORT OPS                                                                                             |
+| Port Authority                             | 160.925   | 156.3250 CH 66 - SEAPHONE                                                                                             |
+| Port Authority                             | 156.375   | 156.3750 CH 67 - Weather information and secondary distress - Distress  Safety & calling - to/from all stations - all |
+| stations - Fremantle Port Authority        | 156.425   | 156.4250 CH 68 - PORT OPS - coast to ship / ship to coast - Fremantle Port Authority                                  |
+| stations - Fremantle Port Authority        | 156.475   | 156.4750 CH 69 -                                                                                                      |
+| stations - Fremantle Port Authority        | 156.525   | 156.5250 CH 70 -                                                                                                      |
+| stations - Fremantle Port Authority        | 156.575   | 156.5750 CH 71 -                                                                                                      |
+| stations - Fremantle Port Authority        | 156.625   | 156.6250 CH 72 - PORT OPS/PROFESSIONAL FISHING VESSLES/PLEASURE CRAFT- coast to ship / ship to coast -                |
+| ship to ship                               | 156.675   | 156.6750 CH 73 - PLEASURE CRAFT - coast to ship / ship to coast - ship to ship                                        |
+| ship to ship                               | 156.725   | 156.7250 CH 74 - PORT OPS                                                                                             |
+| ship to ship                               | 156.875   | 156.8750 CH 77 - PROFESSIONAL FISHING VESSLES/ PLEASURE CRAFT - ship to ship                                          |
+| ship to ship                               | 161.525   | 156.9250 CH 78 -                                                                                                      |
+| ship to ship                               | 161.575   | 156.9750 CH 79 - PORT OPS - coast to ship / ship to coast                                                             |
+| ship to ship                               | 161.625   | 157.0250 CH 80 - REPEATER                                                                                             |
+| ship to ship                               | 161.675   | 157.0750 CH 81 - REPEATER                                                                                             |
+| ship to ship                               | 161.725   | 157.1250 CH 82 - REPEATER/ PROFESSIONAL FISHING VESSLES - coast to ship / ship to coast - ship to ship                |
+| ship to ship                               | 161.775   | 157.1750 CH 83 - SEAPHONE                                                                                             |
+| ship to ship                               | 161.825   | 157.2250 CH 84 - SEAPHONE                                                                                             |
+| ship to ship                               | 161.875   | 157.2750 CH 85 - SEAPHONE                                                                                             |
+| ship to ship                               | 161.925   | 157.3250 CH 86 - SEAPHONE                                                                                             |
+| ship to ship                               | 157.375   | 157.3750 CH 87 -                                                                                                      |
+| ship to ship                               | 162.025   | 157.4250 CH 88 - SEAPHONE                                                                                             |
+| UHF BAND MARITIME CHANNELS (on ship comms) | 457.525   | CH 1 - World wide                                                                                                     |
+| UHF BAND MARITIME CHANNELS (on ship comms) | 457.55    | CH 2 - World wide                                                                                                     |
+| UHF BAND MARITIME CHANNELS (on ship comms) | 457.575   | CH 3 - World wide                                                                                                     |
+| UHF BAND MARITIME CHANNELS (on ship comms) | 467.525   | CH 4 - World wide                                                                                                     |
+| UHF BAND MARITIME CHANNELS (on ship comms) | 467.55    | CH 5 - World wide                                                                                                     |
+| UHF BAND MARITIME CHANNELS (on ship comms) | 467.575   | CH 6 - World wide                                                                                                     |
+| Amateur 2 metre band                       | 146.025   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.05    | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.075   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.1     | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.125   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.15    | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.175   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.2     | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.225   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.25    | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.275   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.3     | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.325   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.35    | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.375   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.4     | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 146.425   | Simplex - CH 6425                                                                                                     |
+| Amateur 2 metre band                       | 146.45    | Simplex - CH 6450                                                                                                     |
+| Amateur 2 metre band                       | 146.475   | Simplex - CH 6475                                                                                                     |
+| Amateur 2 metre band                       | 146.5     | Simplex - CH 6500                                                                                                     |
+| Amateur 2 metre band                       | 146.525   | Simplex - CH 6525                                                                                                     |
+| Amateur 2 metre band                       | 146.55    | Simplex - CH 6550                                                                                                     |
+| Amateur 2 metre band                       | 146.575   | Simplex - CH 6575                                                                                                     |
+| Amateur 2 metre band                       | 146.6     | Simplex - CH 6600                                                                                                     |
+| Amateur 2 metre band                       | 146.625   | Repeater output - CH 6625 - STW9 Mast Lawnbrook Road WALLISTON Northern Corridor Radio Group                          |
+| Amateur 2 metre band                       | 146.65    | Repeater output - CH 6650                                                                                             |
+| Amateur 2 metre band                       | 146.675   | Repeater output - CH 6675                                                                                             |
+| Amateur 2 metre band                       | 146.7     | Repeater output - CH 6700                                                                                             |
+| Amateur 2 metre band                       | 146.725   | Repeater output - CH 6725                                                                                             |
+| Amateur 2 metre band                       | 146.75    | Repeater output - CH 6750 - 21 Waterloo Crescent LESMURDIE West Australian Repeater Group Inc                         |
+| Amateur 2 metre band                       | 146.775   | Repeater output - CH 6775 - Forbes Hill ROTTNEST ISLAND West Australian Repeater Group Inc                            |
+| Amateur 2 metre band                       | 146.8     | Repeater output - CH 6800                                                                                             |
+| Amateur 2 metre band                       | 146.825   | Repeater output - CH 6825                                                                                             |
+| Amateur 2 metre band                       | 146.85    | Repeater output - CH 6850                                                                                             |
+| Amateur 2 metre band                       | 146.875   | Repeater output - CH 6875                                                                                             |
+| Amateur 2 metre band                       | 146.9     | Repeater output - CH 6900                                                                                             |
+| Amateur 2 metre band                       | 146.925   | Repeater output - CH 6925                                                                                             |
+| Amateur 2 metre band                       | 146.95    | Repeater output - CH 6950 - 146B Stock Road ATTADALE West Australian Repeater Group Inc                               |
+| Amateur 2 metre band                       | 146.975   | Repeater output - CH 6975                                                                                             |
+| Amateur 2 metre band                       | 147.0     | Repeater output - CH 7000                                                                                             |
+| Amateur 2 metre band                       | 147.025   | Repeater output - CH 7025                                                                                             |
+| Amateur 2 metre band                       | 147.05    | Repeater output - CH 7050                                                                                             |
+| Amateur 2 metre band                       | 147.075   | Repeater output - CH 7075                                                                                             |
+| Amateur 2 metre band                       | 147.1     | Repeater output - CH 7100 - Abercorn Rd CHIDLOW Western Amateur Radio Group                                           |
+| Amateur 2 metre band                       | 147.125   | Repeater output - CH 7125                                                                                             |
+| Amateur 2 metre band                       | 147.15    | Repeater output - CH 7150                                                                                             |
+| Amateur 2 metre band                       | 147.175   | Repeater output - CH 7175                                                                                             |
+| Amateur 2 metre band                       | 147.2     | Repeater output - CH 7200                                                                                             |
+| Amateur 2 metre band                       | 147.225   | Repeater output - CH 7225                                                                                             |
+| Amateur 2 metre band                       | 147.25    | Repeater output - CH 7250                                                                                             |
+| Amateur 2 metre band                       | 147.275   | Repeater output - CH 7275                                                                                             |
+| Amateur 2 metre band                       | 147.3     | Repeater output - CH 7300                                                                                             |
+| Amateur 2 metre band                       | 147.325   | Repeater output - CH 7325                                                                                             |
+| Amateur 2 metre band                       | 147.35    | Repeater output - CH 7350                                                                                             |
+| Amateur 2 metre band                       | 147.375   | Repeater output - CH 7375 - 59/61 Division St WELSHPOOL J R Morgan                                                    |
+| Amateur 2 metre band                       | 147.4     | Simplex - CH 7400                                                                                                     |
+| Amateur 2 metre band                       | 147.425   | Simplex - CH 7425                                                                                                     |
+| Amateur 2 metre band                       | 147.45    | Simplex - CH 7450                                                                                                     |
+| Amateur 2 metre band                       | 147.475   | Simplex - CH 7475                                                                                                     |
+| Amateur 2 metre band                       | 147.5     | Simplex - CH 7500                                                                                                     |
+| Amateur 2 metre band                       | 147.525   | Simplex - CH 7525                                                                                                     |
+| Amateur 2 metre band                       | 147.55    | Simplex - CH 7550                                                                                                     |
+| Amateur 2 metre band                       | 147.575   | Simplex - CH 7575                                                                                                     |
+| Amateur 2 metre band                       | 147.6     | Simplex - CH 7600                                                                                                     |
+| Amateur 2 metre band                       | 147.625   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.65    | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.675   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.7     | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.725   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.75    | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.775   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.8     | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.825   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.85    | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.875   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.9     | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.925   | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.95    | Repeater input                                                                                                        |
+| Amateur 2 metre band                       | 147.975   | Repeater input                                                                                                        |
+| Transair Two Way Radio                     | 472.65    | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Transair Two Way Radio                     | 474.75    | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Transair Two Way Radio                     | 472.95    | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Transair Two Way Radio                     | 473.25    | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Transair Two Way Radio                     | 473.55    | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Transair Two Way Radio                     | 474.15    | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Transair Two Way Radio                     | 474.45    | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Transair Two Way Radio                     | 474.125   | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Transair Two Way Radio                     | 473.85    | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Transair Two Way Radio                     | 473.8     | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Transair Two Way Radio                     | 473.325   | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Transair Two Way Radio                     | 472.75    | Transwest Trading Groupsite Cockburn Road HAMILTON HILL                                                               |
+| Memo Communications                        | 465.025   | Unit 6 Norma Road Cnr Godfrey Street WALLISTON                                                                        |
+| Memo Communications                        | 462.575   | 2b Godfrey Street WALLISTON                                                                                           |
+| Memo Communications                        | 485.575   | Cnr Pinjarra & Arnold Rd MANDURAH                                                                                     |
+| Memo Communications                        | 466.4     | Central Park 152 to 158 St Georges Terrace PERTH                                                                      |
+| Memo Communications                        | 466.2     | Wapet Site Lot 10 Chevin Road ROLEYSTONE                                                                              |
+| Memo Communications                        | 471.475   | WA                                                                                                                    |
+| Memo Communications                        | 494.875   | WACA Nelson Crescent EAST PERTH                                                                                       |
+| Community newspapers                       | 488.275   | 13 Godfrey Street WALLISTON                                                                                           |
+| Kimbers towing service                     | 507.4     | QV1 250 St Georges Terrace PERTH                                                                                      |
+| Communications Australia Pty Ltd           | 474.025   | Murray Shire Site Pinjarra East                                                                                       |
+| Communications Australia Pty Ltd           | 485.675   | Lot 134 Godfrey Street WALLISTON                                                                                      |
+| Communications Australia Pty Ltd           | 466.1     | Birksgate Road NORTH FREMANTLE                                                                                        |
+| Communications Australia Pty Ltd           | 473.3     | Capita Building 197 St Georges Terrace PERTH                                                                          |
+| Ejan electronics services                  | 162.9625  | 25 Brine Road KALAMUNDA                                                                                               |
+| Ford electronics pty ltd                   | 464.25    | 79 Parramatta Road DOUBLEVIEW                                                                                         |
+| Motomara Communications                    | 472.5     | WA                                                                                                                    |
+| Motomara Communications                    | 472.625   | Victoria Quay Fremantle Wharf FREMANTLE                                                                               |
+| Tara Systems WA                            | 492.025   | Commercial Mast Wireless Hill Park ARDROSS                                                                            |
+| Tara Systems WA                            | 471.475   | WA                                                                                                                    |
+| Motorola communications                    | 493.5     | Aust wide                                                                                                             |
+| Motorola communications                    | 869.2625  | Central Park 152 to 158 St Georges Terrace PERTH                                                                      |
+| Motorola communications                    | 462.125   | STW9 Mast Lawnbrook Road WALLISTON                                                                                    |
+| Motorola communications                    | 173.25    | STW9 Mast Lawnbrook Road WALLISTON                                                                                    |
